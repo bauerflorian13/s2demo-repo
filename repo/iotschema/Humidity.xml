@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Read-only", "Pattern", "Interaction", "Observable", "Property", "Humidity", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "Humidity interaction property (e.g., in the range 0-100)"-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<Humidity type="/iotschema/Class,/iotschema/Property" reader="*" writer=" ">
+
+	<providesHumidityData type="/iotschema/providesHumidityData" reader="*" writer="*"></providesHumidityData>
+
+</Humidity>

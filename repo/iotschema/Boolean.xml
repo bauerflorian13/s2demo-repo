@@ -1,0 +1,10 @@
+<!--TAGS_MODEL: ["Pattern", "Provides", "Interaction", "Data", "Property", "ProvidesOutputData", "Output", "Boolean", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "A property that relates an Interaction Pattern with its output ma:Boolean."-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<Boolean type="/iotschema/providesOutputData,/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/Boolean" reader="*" writer="*"></expectedReturnType>
+
+	<expectedReturnType type="/iotschema/Boolean" reader="*" writer="*"></expectedReturnType>
+
+</Boolean>

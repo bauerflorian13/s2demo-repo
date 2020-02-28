@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Pattern", "Provides", "CurrentLevel", "Interaction", "Current", "ProvidesInteractionPattern", "Level", "Property", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "A property that relates a capability with its CurrentLevel interaction pattern."-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<currentLevel type="/iotschema/providesInteractionPattern,/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/CurrentLevel" reader="*" writer="*"></expectedReturnType>
+
+</currentLevel>

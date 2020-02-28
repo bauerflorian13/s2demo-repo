@@ -1,0 +1,10 @@
+<!--TAGS_MODEL: ["Dioxide", "Data", "CarbonDioxideConcentrationData", "Carbon", "Concentration"]-->
+<!--DESCRIPTION_MODEL: "Carbon dioxide concentration data."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<CarbonDioxideConcentrationData type="/iotschema/CarbonDioxideConcentrationData,/iotschema/PropertyValue,/iotschema/Class" reader="*" writer="*">
+
+	<carbonDioxideconcentrationUnitCode type="/iotschema/carbonDioxideconcentrationUnitCode" reader="*" writer="*"></carbonDioxideconcentrationUnitCode>
+
+	<numberDataType type="/iotschema/numberDataType" reader="*" writer="*"></numberDataType>
+
+</CarbonDioxideConcentrationData>

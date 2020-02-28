@@ -1,0 +1,1 @@
+{"types":["/iotschema/Enumeration","/iotschema/Class"],"children":[],"reader":"*","name":"MotionSensorType","description":"'The type of the sensor (for instance PIR type).'","restrictions":[],"writer":"*","metaInformation":{"TYPE":"Class"},"tags":["MotionSensorType","Type","Sensor","Motion"]}

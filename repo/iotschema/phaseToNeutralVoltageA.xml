@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Pattern", "Provides", "Interaction", "To", "Phase", "ProvidesInteractionPattern", "PhaseToNeutralVoltageA", "Property", "Neutral", "Voltage", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "A property that relates a capability with its PhaseToNeutralVoltageA interaction pattern."-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<phaseToNeutralVoltageA type="/iotschema/providesInteractionPattern,/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/PhaseToNeutralVoltageA" reader="*" writer="*"></expectedReturnType>
+
+</phaseToNeutralVoltageA>

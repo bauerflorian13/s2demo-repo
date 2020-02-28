@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["Pattern", "Interaction", "OverPressureAlarm", "Over", "Event", "Pressure", "Alarm", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "Too high pressure."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<OverPressureAlarm type="/iotschema/Event,/iotschema/Class" reader="*" writer="*">
+
+</OverPressureAlarm>

@@ -1,0 +1,1 @@
+{"types":["/iotschema/Enumeration","/iotschema/Class"],"children":[],"reader":"*","name":"RunModeType","description":"'An enumeration of run modes of an air conditioner.'","restrictions":[],"writer":"*","metaInformation":{"TYPE":"Class"},"tags":["RunModeType","Mode","Type","Run"]}

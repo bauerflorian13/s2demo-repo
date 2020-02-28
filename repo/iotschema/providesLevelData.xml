@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Provides", "Pattern", "Interaction", "ProvidesLevelData", "Data", "Level", "Property", "ProvidesOutputData", "Output", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "A property that relates an Interaction Pattern with its output LevelData."-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<providesLevelData type="/iotschema/providesOutputData,/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/LevelData" reader="*" writer="*"></expectedReturnType>
+
+</providesLevelData>

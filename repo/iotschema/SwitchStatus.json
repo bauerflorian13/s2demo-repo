@@ -1,0 +1,1 @@
+{"types":["/iotschema/Property","/iotschema/Class"],"children":[],"reader":"*","name":"SwitchStatus","description":"'Binary switch status (on/off property).'","restrictions":[],"writer":" ","metaInformation":{"TYPE":"Class"},"tags":["Read-only","Pattern","Status","Interaction","SwitchStatus","Switch","Observable","Property","InteractionPattern"]}

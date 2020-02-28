@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Depth", "Read-only", "ExpectedFloatImmersionDepth", "Immersion", "Pattern", "Interaction", "Expected", "Float", "Observable", "Property", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "The expected immersion depth of liquid in float sensor. "-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<ExpectedFloatImmersionDepth type="/iotschema/Class,/iotschema/Property" reader="*" writer=" ">
+
+	<providesImmersionDepthData type="/iotschema/providesImmersionDepthData" reader="*" writer="*"></providesImmersionDepthData>
+
+</ExpectedFloatImmersionDepth>

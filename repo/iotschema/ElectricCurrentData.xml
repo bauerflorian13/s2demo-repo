@@ -1,0 +1,14 @@
+<!--TAGS_MODEL: ["Current", "Data", "ElectricCurrentData", "Electric"]-->
+<!--DESCRIPTION_MODEL: "Electric current data."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<ElectricCurrentData type="/iotschema/ElectricCurrentData,/iotschema/PropertyValue,/iotschema/Class" reader="*" writer="*">
+
+	<numberDataType type="/iotschema/numberDataType" reader="*" writer="*"></numberDataType>
+
+	<maxValue type="/iotschema/maxValue" reader="*" writer="*"></maxValue>
+
+	<minValue type="/iotschema/minValue" reader="*" writer="*"></minValue>
+
+	<electricCurrentUnitCode type="/iotschema/electricCurrentUnitCode" reader="*" writer="*"></electricCurrentUnitCode>
+
+</ElectricCurrentData>

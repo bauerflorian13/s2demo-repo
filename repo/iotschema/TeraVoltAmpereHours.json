@@ -1,0 +1,1 @@
+{"types":["/iotschema/ApparentPowerUnit"],"children":[],"reader":"*","name":"TeraVoltAmpereHours","description":"'The unit of the apparent enregy, expressed in giga (one trillion) as a decimal unit prefix.'","restrictions":[],"writer":"*","metaInformation":{"TYPE":"ApparentPowerUnit"},"tags":["ApparentPowerUnit","Power","Unit","Apparent","Teravolt-ampere-hours"]}

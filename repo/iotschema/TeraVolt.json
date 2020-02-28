@@ -1,0 +1,1 @@
+{"types":["/iotschema/VoltageUnit"],"children":[],"reader":"*","name":"TeraVolt","description":"'The unit of voltage, expressed in a unit prefix meaning 'one trillion'.'","restrictions":[],"writer":"*","metaInformation":{"REFERENCE":"\"0112/2///62720#UAC773#001\"","TYPE":"VoltageUnit"},"tags":["Teravolt","VoltageUnit","Unit","Voltage"]}

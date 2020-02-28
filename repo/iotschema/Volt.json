@@ -1,0 +1,1 @@
+{"types":["/iotschema/VoltageUnit"],"children":[],"reader":"*","name":"Volt","description":"'The unit of voltage.'","restrictions":[],"writer":"*","metaInformation":{"SOURCE":"\"http://www.qudt.org/qudt/owl/1.0.0/unit/Instances.html#Volt\"","REFERENCE":"\"0112/2///62720#UAA296#001\"","TYPE":"VoltageUnit"},"tags":["VoltageUnit","Unit","Volt","Voltage"]}

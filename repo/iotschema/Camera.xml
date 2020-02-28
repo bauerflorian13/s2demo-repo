@@ -1,0 +1,16 @@
+<!--TAGS_MODEL: ["Camera", "Capability", "Industry", "Energy", "Building", "Home"]-->
+<!--DESCRIPTION_MODEL: "A capability for an Internet Protocol (IP) camera."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<Camera type="/iotschema/Capability,/iotschema/Class,/iotschema/Camera" reader="*" writer="*">
+
+	<resumerecording type="/iotschema/resumerecording" reader="*" writer="*"></resumerecording>
+
+	<pauseRecording type="/iotschema/pauseRecording" reader="*" writer="*"></pauseRecording>
+
+	<stopRecording type="/iotschema/stopRecording" reader="*" writer="*"></stopRecording>
+
+	<startRecording type="/iotschema/startRecording" reader="*" writer="*"></startRecording>
+
+	<makeImage type="/iotschema/makeImage" reader="*" writer="*"></makeImage>
+
+</Camera>

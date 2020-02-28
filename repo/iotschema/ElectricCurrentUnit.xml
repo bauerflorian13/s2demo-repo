@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["Current", "Unit", "Electric", "ElectricCurrentUnit"]-->
+<!--DESCRIPTION_MODEL: "An enumeration of electric current units."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<ElectricCurrentUnit type="/iotschema/Enumeration,/iotschema/Class" reader="*" writer="*">
+
+</ElectricCurrentUnit>

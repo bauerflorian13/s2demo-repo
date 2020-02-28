@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["DischargeBattery", "Pattern", "Provides", "Battery", "Interaction", "Discharge", "ProvidesInteractionPattern", "Property", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "An action that relates a capability with its DischargeBattery interaction pattern."-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<dischargeBattery type="/iotschema/providesInteractionPattern,/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/DischargeBattery" reader="*" writer="*"></expectedReturnType>
+
+</dischargeBattery>

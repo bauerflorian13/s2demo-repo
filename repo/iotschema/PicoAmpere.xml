@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["Current", "Picoampere", "Unit", "Electric", "ElectricCurrentUnit"]-->
+<!--DESCRIPTION_MODEL: "The unit of electric current, expressed in a unit prefix meaning 'one trillionth'."-->
+<!--METAINFORMATION_MODEL: {REFERENCE="0112/2///62720#UAA928#001", TYPE=ElectricCurrentUnit}-->
+<PicoAmpere type="/iotschema/ElectricCurrentUnit" reader="*" writer="*">
+
+</PicoAmpere>

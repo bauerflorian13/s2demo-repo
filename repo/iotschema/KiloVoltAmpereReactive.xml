@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["Reactive", "Power", "Kilovolt-ampere-reactive", "ReactivePowerUnit", "Unit"]-->
+<!--DESCRIPTION_MODEL: "The unit of reactive power, expressed in kilo (one thousand) as a decimal unit prefix."-->
+<!--METAINFORMATION_MODEL: {REFERENCE="0112/2///62720#UAB195#001", TYPE=ReactivePowerUnit}-->
+<KiloVoltAmpereReactive type="/iotschema/ReactivePowerUnit" reader="*" writer="*">
+
+</KiloVoltAmpereReactive>

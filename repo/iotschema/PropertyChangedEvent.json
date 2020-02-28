@@ -1,0 +1,1 @@
+{"types":["/iotschema/Event","/iotschema/Class"],"children":[],"reader":"*","name":"PropertyChangedEvent","description":"'Specification of an event occurring when some property changes.'","restrictions":[],"writer":"*","metaInformation":{"TYPE":"Class"},"tags":["PropertyChangedEvent","Pattern","Changed","Interaction","Property","Event","InteractionPattern"]}

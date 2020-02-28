@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["Per", "Meter", "KilogramPerCubicMeter", "Unit", "Density", "Kilogram", "Cubic", "DensityUnit"]-->
+<!--DESCRIPTION_MODEL: "unit of the density of liquid"-->
+<!--METAINFORMATION_MODEL: {REFERENCE="0112/2///62720#UAA619#001", SOURCE="http://data.nasa.gov/qudt/owl/unit#KilogramPerCubicMeter", TYPE=DensityUnit}-->
+<KilogramPerCubicMeter type="/iotschema/DensityUnit" reader="*" writer="*">
+
+</KilogramPerCubicMeter>

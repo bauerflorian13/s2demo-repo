@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Pattern", "Provides", "Interaction", "ProvidesInteractionPattern", "Property", "TargetTemperature", "Temperature", "Target", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "A property that relates a capability with its TargetTemperature interaction pattern."-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<targetTemperature type="/iotschema/providesInteractionPattern,/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/TargetTemperature" reader="*" writer="*"></expectedReturnType>
+
+</targetTemperature>

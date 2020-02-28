@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["NitrogenConcentration", "Read-only", "Pattern", "Interaction", "Concentration", "Nitrogen", "Observable", "Property", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "Concentration of nitrogen in ambient air."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<NitrogenConcentration type="/iotschema/Class,/iotschema/Property" reader="*" writer=" ">
+
+	<providesNitrogenConcentrationData type="/iotschema/providesNitrogenConcentrationData" reader="*" writer="*"></providesNitrogenConcentrationData>
+
+</NitrogenConcentration>

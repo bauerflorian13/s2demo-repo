@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["Milli-ampere-hour"]-->
+<!--DESCRIPTION_MODEL: "The unit of the electric charge (battery capacity), expressed in a unit prefix meaning 'one thousandth'."-->
+<!--METAINFORMATION_MODEL: {REFERENCE="0112/2///62720#UAA777#001", TYPE=ElectricChargeUnit}-->
+<MilliAmpereHour type="/iotschema/ElectricChargeUnit" reader="*" writer="*">
+
+</MilliAmpereHour>

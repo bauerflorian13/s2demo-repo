@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Pattern", "ERateUnitCode", "Interaction", "Rate", "Unit", "Property", "Code", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "A property that relates iot:eRateUnitCode with its unit."-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<eRateUnitCode type="/iotschema/unitCode,/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/ActivePowerUnit" reader="*" writer="*"></expectedReturnType>
+
+</eRateUnitCode>

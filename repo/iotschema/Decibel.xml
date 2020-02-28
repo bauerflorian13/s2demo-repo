@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["SoundPressureUnit", "Unit", "Sound", "Pressure"]-->
+<!--DESCRIPTION_MODEL: "Sound Pressure Unit"-->
+<!--METAINFORMATION_MODEL: {SOURCE="http://qudt.org/vocab/unit#Decibel", REFERENCE="0112/2///62720#UAA409#001", TYPE=SoundPressureUnit}-->
+<Decibel type="/iotschema/SoundPressureUnit" reader="*" writer="*">
+
+</Decibel>

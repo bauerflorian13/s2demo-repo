@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["ReactiveEnergyUnit", "Volt-ampere-reactive-hour", "Reactive", "Energy", "Unit"]-->
+<!--DESCRIPTION_MODEL: "The unit of reactive enregy."-->
+<!--METAINFORMATION_MODEL: {TYPE=ReactiveEnergyUnit}-->
+<VoltAmpereReactiveHour type="/iotschema/ReactiveEnergyUnit" reader="*" writer="*">
+
+</VoltAmpereReactiveHour>

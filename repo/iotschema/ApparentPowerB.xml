@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["ApparentPowerB", "Read-only", "Pattern", "Interaction", "Power", "Observable", "Property", "Apparent", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "The apparent power for phase B (there exist phases A, B, and C)."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<ApparentPowerB type="/iotschema/ApparentPowerB,/iotschema/Class,/iotschema/Property" reader="*" writer=" ">
+
+	<providesApparentPowerData type="/iotschema/providesApparentPowerData" reader="*" writer="*"></providesApparentPowerData>
+
+</ApparentPowerB>

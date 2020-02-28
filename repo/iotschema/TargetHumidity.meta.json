@@ -1,0 +1,1 @@
+{"name":"TargetHumidity","meta-info":{"TYPE":"Class"},"description":"\"Desired value for Humidity (e.g., in the range 0-100)\"","tags":["Writeable","Pattern","Interaction","TargetHumidity","Observable","Property","Humidity","Target","InteractionPattern"]}

@@ -1,0 +1,1 @@
+{"types":["/iotschema/ApparentEnergyUnit"],"children":[],"reader":"*","name":"GigaVoltAmpereHours","description":"'The unit of the apparent enregy, expressed in giga (one billion) as a decimal unit prefix.'","restrictions":[],"writer":"*","metaInformation":{"TYPE":"ApparentEnergyUnit"},"tags":["Energy","ApparentEnergyUnit","Unit","Gigavolt-ampere-hours","Apparent"]}

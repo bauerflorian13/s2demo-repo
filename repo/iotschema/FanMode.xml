@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["Fan", "FanMode", "RunModeType", "Mode", "Type", "Run"]-->
+<!--DESCRIPTION_MODEL: "Fan Mode"-->
+<!--METAINFORMATION_MODEL: {TYPE=RunModeType}-->
+<FanMode type="/iotschema/RunModeType" reader="*" writer="*">
+
+</FanMode>

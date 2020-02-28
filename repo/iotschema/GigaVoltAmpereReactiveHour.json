@@ -1,0 +1,1 @@
+{"types":["/iotschema/ReactiveEnergyUnit"],"children":[],"reader":"*","name":"GigaVoltAmpereReactiveHour","description":"'The unit of reactive enregy, expressed in giga (one billion) as a decimal unit prefix.'","restrictions":[],"writer":"*","metaInformation":{"TYPE":"ReactiveEnergyUnit"},"tags":["Gigavolt-ampere-reactive-hour","ReactiveEnergyUnit","Reactive","Energy","Unit"]}

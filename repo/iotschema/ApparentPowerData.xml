@@ -1,0 +1,14 @@
+<!--TAGS_MODEL: ["Power", "Data", "Apparent", "ApparentPowerData"]-->
+<!--DESCRIPTION_MODEL: "Data for the apparent power."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<ApparentPowerData type="/iotschema/ApparentPowerData,/iotschema/PropertyValue,/iotschema/Class" reader="*" writer="*">
+
+	<apparentPowerUnitCode type="/iotschema/apparentPowerUnitCode" reader="*" writer="*"></apparentPowerUnitCode>
+
+	<maxValue type="/iotschema/maxValue" reader="*" writer="*"></maxValue>
+
+	<minValue type="/iotschema/minValue" reader="*" writer="*"></minValue>
+
+	<numberDataType type="/iotschema/numberDataType" reader="*" writer="*"></numberDataType>
+
+</ApparentPowerData>

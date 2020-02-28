@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["TemperatureUnit", "Kelvin", "Unit", "Temperature"]-->
+<!--DESCRIPTION_MODEL: "unit of thermodynamic temperature is the fraction 1/273,16 of the thermodynamic temperature of the triple point of water"-->
+<!--METAINFORMATION_MODEL: {SOURCE="http://data.nasa.gov/qudt/owl/unit#Kelvin", REFERENCE="0112/2///62720#UAA185#001", TYPE=TemperatureUnit}-->
+<Kelvin type="/iotschema/TemperatureUnit" reader="*" writer="*">
+
+</Kelvin>

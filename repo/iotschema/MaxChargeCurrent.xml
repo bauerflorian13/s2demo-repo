@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["Read-only", "Charge", "Pattern", "Max", "Interaction", "Current", "Observable", "MaxChargeCurrent", "Property", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "It is the charge electric current limit (CCL)."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<MaxChargeCurrent type="/iotschema/Class,/iotschema/Property" reader="*" writer=" ">
+
+</MaxChargeCurrent>

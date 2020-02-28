@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Pattern", "Interaction", "Reference", "Property", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "IRDI reference to unit as specified by IEC Common Data Dictionary"-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<reference type="/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/Text" reader="*" writer="*"></expectedReturnType>
+
+</reference>

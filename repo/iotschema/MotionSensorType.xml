@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["MotionSensorType", "Type", "Sensor", "Motion"]-->
+<!--DESCRIPTION_MODEL: "The type of the sensor (for instance PIR type)."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<MotionSensorType type="/iotschema/Enumeration,/iotschema/Class" reader="*" writer="*">
+
+</MotionSensorType>

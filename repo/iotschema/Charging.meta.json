@@ -1,0 +1,1 @@
+{"name":"Charging","meta-info":{"TYPE":"Class"},"description":"\"The status of charging. 'True' indicates enabled, and ''False' indicates not enabled.\"","tags":["Writeable","Pattern","Interaction","Charging","Observable","Property","InteractionPattern"]}

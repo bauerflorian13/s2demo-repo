@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Pattern", "AcceptsInputData", "Input", "Interaction", "Accepts", "Rate", "Data", "Property", "AcceptsCRateData", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "A property that relates an Interaction Pattern with its input RateData."-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<acceptsCRateData type="/iotschema/acceptsInputData,/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/CRateData" reader="*" writer="*"></expectedReturnType>
+
+</acceptsCRateData>

@@ -1,0 +1,22 @@
+<!--TAGS_MODEL: ["AirConditioner", "Air", "Capability", "Home", "Conditioner"]-->
+<!--DESCRIPTION_MODEL: "A capability for air conditioner"-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<AirConditioner type="/iotschema/Capability,/iotschema/Class,/iotschema/AirConditioner" reader="*" writer="*">
+
+	<runMode type="/iotschema/runMode" reader="*" writer="*"></runMode>
+
+	<windStrength type="/iotschema/windStrength" reader="*" writer="*"></windStrength>
+
+	<countDown type="/iotschema/countDown" reader="*" writer="*"></countDown>
+
+	<turnOff type="/iotschema/turnOff" reader="*" writer="*"></turnOff>
+
+	<targetTemperature type="/iotschema/targetTemperature" reader="*" writer="*"></targetTemperature>
+
+	<switchstatus type="/iotschema/switchstatus" reader="*" writer="*"></switchstatus>
+
+	<temperature type="/iotschema/temperature" reader="*" writer="*"></temperature>
+
+	<turnOn type="/iotschema/turnOn" reader="*" writer="*"></turnOn>
+
+</AirConditioner>

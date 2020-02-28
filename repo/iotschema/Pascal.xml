@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["PressureUnit", "Pascal", "Unit", "Pressure"]-->
+<!--DESCRIPTION_MODEL: "The pascal (symbol: Pa) is the SI derived unit of pressure used to quantify internal pressure, stress, Young's modulus and ultimate tensile strength. It is defined as one newton per square metre."-->
+<!--METAINFORMATION_MODEL: {SOURCE="http://data.nasa.gov/qudt/owl/unit#Pascal", REFERENCE="0112/2///62720#UAA258#001", TYPE=PressureUnit}-->
+<Pascal type="/iotschema/PressureUnit" reader="*" writer="*">
+
+</Pascal>

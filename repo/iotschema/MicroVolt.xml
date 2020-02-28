@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["Microvolt", "VoltageUnit", "Unit", "Voltage"]-->
+<!--DESCRIPTION_MODEL: "The unit of voltage, expressed in a unit prefix meaning 'one millionth'."-->
+<!--METAINFORMATION_MODEL: {REFERENCE="0112/2///62720#UAA078#001", TYPE=VoltageUnit}-->
+<MicroVolt type="/iotschema/VoltageUnit" reader="*" writer="*">
+
+</MicroVolt>

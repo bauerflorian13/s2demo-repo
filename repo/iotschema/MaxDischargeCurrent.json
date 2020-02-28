@@ -1,0 +1,1 @@
+{"types":["/iotschema/Property","/iotschema/Class"],"children":[],"reader":"*","name":"MaxDischargeCurrent","description":"'It is the discharge electric current limit (DCL).'","restrictions":[],"writer":" ","metaInformation":{"TYPE":"Class"},"tags":["Read-only","Pattern","Max","Interaction","MaxDischargeCurrent","Discharge","Current","Observable","Property","InteractionPattern"]}

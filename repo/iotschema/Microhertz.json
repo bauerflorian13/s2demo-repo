@@ -1,0 +1,1 @@
+{"types":["/iotschema/LineFrequencyUnit"],"children":[],"reader":"*","name":"Microhertz","description":"'The unit of line frequency, expressed in a unit prefix meaning 'one millionth'.'","restrictions":[],"writer":"*","metaInformation":{"TYPE":"LineFrequencyUnit"},"tags":["LineFrequencyUnit","Frequency","Microhertz","Line","Unit"]}

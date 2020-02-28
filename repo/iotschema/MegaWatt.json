@@ -1,0 +1,1 @@
+{"types":["/iotschema/ActivePowerUnit"],"children":[],"reader":"*","name":"MegaWatt","description":"'The unit of the active power, expressed in mega (one million) as a decimal unit prefix.'","restrictions":[],"writer":"*","metaInformation":{"REFERENCE":"\"0112/2///62720#UAA224#001\"","TYPE":"ActivePowerUnit"},"tags":["Power","ActivePowerUnit","Active","Unit","Megawatt"]}

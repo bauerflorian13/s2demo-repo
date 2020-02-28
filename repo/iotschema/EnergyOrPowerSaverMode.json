@@ -1,0 +1,1 @@
+{"types":["/iotschema/RunModeType"],"children":[],"reader":"*","name":"EnergyOrPowerSaverMode","description":"'Energy Or Power Saver Mode'","restrictions":[],"writer":"*","metaInformation":{"TYPE":"RunModeType"},"tags":["Power","RunModeType","Energy","Mode","Saver","Type","EnergyOrPowerSaverMode","Or","Run"]}

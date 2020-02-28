@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Pattern", "Provides", "Interaction", "ProvidesInteractionPattern", "PauseRecording", "Property", "Pause", "Recording", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "An action that relates a capability with its PauseRecording interaction pattern."-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<pauseRecording type="/iotschema/providesInteractionPattern,/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/PauseRecording" reader="*" writer="*"></expectedReturnType>
+
+</pauseRecording>

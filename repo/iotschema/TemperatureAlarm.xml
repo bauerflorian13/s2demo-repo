@@ -1,0 +1,10 @@
+<!--TAGS_MODEL: ["Pattern", "Interaction", "TemperatureAlarm", "Event", "Alarm", "Temperature", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "Temperature alarm"-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<TemperatureAlarm type="/iotschema/Event,/iotschema/Class,/iotschema/TemperatureAlarm" reader="*" writer="*">
+
+	<Boolean type="/iotschema/Boolean" reader="*" writer="*"></Boolean>
+
+	<providesTemperatureData type="/iotschema/providesTemperatureData" reader="*" writer="*"></providesTemperatureData>
+
+</TemperatureAlarm>

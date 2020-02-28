@@ -1,0 +1,1 @@
+{"types":["/iotschema/Enumeration","/iotschema/Class"],"children":[],"reader":"*","name":"ReactiveEnergyUnit","description":"'An enumeration of reactive enregy units.'","restrictions":[],"writer":"*","metaInformation":{"TYPE":"Class"},"tags":["ReactiveEnergyUnit","Reactive","Energy","Unit"]}

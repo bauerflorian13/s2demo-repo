@@ -1,0 +1,1 @@
+{"types":["/iotschema/Event","/iotschema/Class"],"children":[],"reader":"*","name":"OverVoltageAlarm","description":"'Too high voltage (e.g., a battery is charged or discharged with).'","restrictions":[],"writer":"*","metaInformation":{"TYPE":"Class"},"tags":["Pattern","Interaction","OverVoltageAlarm","Over","Event","Voltage","Alarm","InteractionPattern"]}

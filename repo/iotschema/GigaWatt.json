@@ -1,0 +1,1 @@
+{"types":["/iotschema/ActivePowerUnit"],"children":[],"reader":"*","name":"GigaWatt","description":"'The unit of the active power, expressed in giga (one billion) as a decimal unit prefix.'","restrictions":[],"writer":"*","metaInformation":{"REFERENCE":"\"0112/2///62720#UAA154#001\"","TYPE":"ActivePowerUnit"},"tags":["Gigawatt","Power","ActivePowerUnit","Active","Unit"]}

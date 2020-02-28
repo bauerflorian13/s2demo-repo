@@ -1,0 +1,14 @@
+<!--TAGS_MODEL: ["LineFrequencyData", "Frequency", "Data", "Line"]-->
+<!--DESCRIPTION_MODEL: "Line frequency  data."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<LineFrequencyData type="/iotschema/PropertyValue,/iotschema/Class" reader="*" writer="*">
+
+	<minValue type="/iotschema/minValue" reader="*" writer="*"></minValue>
+
+	<maxValue type="/iotschema/maxValue" reader="*" writer="*"></maxValue>
+
+	<numberDataType type="/iotschema/numberDataType" reader="*" writer="*"></numberDataType>
+
+	<lineFrequencyUnitCode type="/iotschema/lineFrequencyUnitCode" reader="*" writer="*"></lineFrequencyUnitCode>
+
+</LineFrequencyData>

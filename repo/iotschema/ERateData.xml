@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["ERateData", "Rate", "Data"]-->
+<!--DESCRIPTION_MODEL: "E or E-rate is a measure of the power rate at which a battery is charged or discharged in 1 hour. The unit of the E-rate is Watt. A 1E rate is the discharge power to discharge the entire battery in 1 hour."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<ERateData type="/iotschema/PropertyValue,/iotschema/Class" reader="*" writer="*">
+
+	<eRateUnitCode type="/iotschema/eRateUnitCode" reader="*" writer="*"></eRateUnitCode>
+
+</ERateData>

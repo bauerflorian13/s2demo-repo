@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Pattern", "Provides", "Interaction", "ProvidesInteractionPattern", "Property", "Switchstatus", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "A property that relates a capability with its SwitchStatus interaction pattern."-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<switchstatus type="/iotschema/providesInteractionPattern,/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/SwitchStatus" reader="*" writer="*"></expectedReturnType>
+
+</switchstatus>

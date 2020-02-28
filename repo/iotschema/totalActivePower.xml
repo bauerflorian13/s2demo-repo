@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["TotalActivePower", "Pattern", "Provides", "Interaction", "Power", "ProvidesInteractionPattern", "Active", "Property", "Total", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "A property that relates a capability with its TotalActivePower interaction pattern."-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<totalActivePower type="/iotschema/providesInteractionPattern,/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/TotalActivePower" reader="*" writer="*"></expectedReturnType>
+
+</totalActivePower>

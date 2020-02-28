@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["Pattern", "Interaction", "ResumeRecording", "Resume", "Action", "Recording", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "Resumes a recording activity (e.g., audio-, video-recording)."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<ResumeRecording type="/iotschema/Action,/iotschema/Class" reader="*" writer="*">
+
+</ResumeRecording>

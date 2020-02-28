@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["Megavolt-ampere", "ApparentPowerUnit", "Power", "Unit", "Apparent"]-->
+<!--DESCRIPTION_MODEL: "The unit of the apparent power, expressed in mega (one million) as a decimal unit prefix."-->
+<!--METAINFORMATION_MODEL: {REFERENCE="0112/2///62720#UAA222#001", TYPE=ApparentPowerUnit}-->
+<MegaVoltAmpere type="/iotschema/ApparentPowerUnit" reader="*" writer="*">
+
+</MegaVoltAmpere>

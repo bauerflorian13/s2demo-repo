@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Depth", "Immersion", "Pattern", "Interaction", "Unit", "Property", "Code", "ImmersionDepthUnitCode", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "A property that relates iot:immersionDepthUnitCode with its unit."-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<immersionDepthUnitCode type="/iotschema/unitCode,/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/LevelUnit" reader="*" writer="*"></expectedReturnType>
+
+</immersionDepthUnitCode>

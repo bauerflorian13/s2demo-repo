@@ -1,0 +1,1 @@
+{"types":["/iotschema/FlowRateUnit"],"children":[],"reader":"*","name":"LitrePerMinute","description":"'Unit of measurement of flow rate of a substance'","restrictions":[],"writer":"*","metaInformation":{"REFERENCE":"\"0112/2///62720#UAA659#001\"","TYPE":"FlowRateUnit"},"tags":["Per","LitrePerMinute","Flow","Minute","Rate","Litre","Unit","FlowRateUnit"]}

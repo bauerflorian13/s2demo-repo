@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["Feature", "FeatureOfInterest", "Of", "Place", "Interest"]-->
+<!--DESCRIPTION_MODEL: "Site (e.g., Building Site) is a subclass of Place and FeatureOfInterest"-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<Site type="/iotschema/FeatureOfInterest,/iotschema/Class" reader="*" writer="*">
+
+</Site>

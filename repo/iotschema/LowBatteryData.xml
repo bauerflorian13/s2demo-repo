@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["Battery", "Low", "Data", "LowBatteryData"]-->
+<!--DESCRIPTION_MODEL: "Low battery data."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<LowBatteryData type="/iotschema/PropertyValue,/iotschema/Class" reader="*" writer="*">
+
+</LowBatteryData>

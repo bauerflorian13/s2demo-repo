@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["LineFrequencyUnit", "Frequency", "Line", "Unit", "Hertz"]-->
+<!--DESCRIPTION_MODEL: "The unit of line frequency."-->
+<!--METAINFORMATION_MODEL: {REFERENCE="0112/2///62720#UAA170#001", SOURCE="http://www.qudt.org/qudt/owl/1.0.0/unit/Instances.html#Hertz", TYPE=LineFrequencyUnit}-->
+<Hertz type="/iotschema/LineFrequencyUnit" reader="*" writer="*">
+
+</Hertz>

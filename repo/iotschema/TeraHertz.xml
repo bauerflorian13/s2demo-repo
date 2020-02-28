@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["LineFrequencyUnit", "Frequency", "Line", "Unit", "Terahertz"]-->
+<!--DESCRIPTION_MODEL: "The unit of line frequency, expressed in a unit prefix meaning 'one trillion'."-->
+<!--METAINFORMATION_MODEL: {REFERENCE="0112/2///62720#UAA287#001", TYPE=LineFrequencyUnit}-->
+<TeraHertz type="/iotschema/LineFrequencyUnit" reader="*" writer="*">
+
+</TeraHertz>

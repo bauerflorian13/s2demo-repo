@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["LevelUnit", "Level", "Unit"]-->
+<!--DESCRIPTION_MODEL: "An enumeration of level units."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<LevelUnit type="/iotschema/Enumeration,/iotschema/Class" reader="*" writer="*">
+
+</LevelUnit>

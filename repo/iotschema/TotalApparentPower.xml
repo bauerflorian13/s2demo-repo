@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Read-only", "TotalApparentPower", "Pattern", "Interaction", "Power", "Observable", "Property", "Total", "Apparent", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "The total apparent power."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<TotalApparentPower type="/iotschema/Class,/iotschema/Property" reader="*" writer=" ">
+
+	<providesApparentPowerData type="/iotschema/providesApparentPowerData" reader="*" writer="*"></providesApparentPowerData>
+
+</TotalApparentPower>

@@ -1,0 +1,1 @@
+{"types":["/iotschema/Enumeration","/iotschema/Class"],"children":[],"reader":"*","name":"ElectricCurrentUnit","description":"'An enumeration of electric current units.'","restrictions":[],"writer":"*","metaInformation":{"TYPE":"Class"},"tags":["Current","Unit","Electric","ElectricCurrentUnit"]}

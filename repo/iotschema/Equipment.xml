@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Equipment", "Feature", "FeatureOfInterest", "Of", "Interest"]-->
+<!--DESCRIPTION_MODEL: "Equipment subclass of FeatureOfInterest"-->
+<!--METAINFORMATION_MODEL: {SOURCE="https://project-haystack.org/tag/equip", TYPE=Class}-->
+<Equipment type="/iotschema/Equipment,/iotschema/FeatureOfInterest,/iotschema/Class" reader="*" writer="*">
+
+	<location type="/iotschema/location" reader="*" writer="*"></location>
+
+</Equipment>

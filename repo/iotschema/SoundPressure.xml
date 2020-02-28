@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Capability", "SoundPressureCapability", "Building", "Sound", "Pressure", "Home"]-->
+<!--DESCRIPTION_MODEL: "Sensed Sound Pressure Level, e.g. using a microphone"-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<SoundPressure type="/iotschema/Capability,/iotschema/Class" reader="*" writer="*">
+
+	<soundPressureLevel type="/iotschema/soundPressureLevel" reader="*" writer="*"></soundPressureLevel>
+
+</SoundPressure>

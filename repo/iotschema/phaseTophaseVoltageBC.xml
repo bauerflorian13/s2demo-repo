@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["PhaseTophaseVoltageBC", "Pattern", "Provides", "Interaction", "Phase", "Tophase", "ProvidesInteractionPattern", "Property", "Voltage", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "A property that relates a capability with its PhaseToPhaseVoltageBC interaction pattern."-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<phaseTophaseVoltageBC type="/iotschema/providesInteractionPattern,/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/PhaseToPhaseVoltageBC" reader="*" writer="*"></expectedReturnType>
+
+</phaseTophaseVoltageBC>

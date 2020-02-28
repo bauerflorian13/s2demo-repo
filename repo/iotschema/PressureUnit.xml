@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["PressureUnit", "Unit", "Pressure"]-->
+<!--DESCRIPTION_MODEL: "An enumeration of pressure units."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<PressureUnit type="/iotschema/Enumeration,/iotschema/Class" reader="*" writer="*">
+
+</PressureUnit>

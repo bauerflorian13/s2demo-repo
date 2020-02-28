@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["ActiveEnergyUnit", "Energy", "Active", "Unit", "Megawatt-hour"]-->
+<!--DESCRIPTION_MODEL: "The unit of the active enregy, expressed in mega (one million) as a decimal unit prefix."-->
+<!--METAINFORMATION_MODEL: {REFERENCE="0112/2///62720#UAA225#001", TYPE=ActiveEnergyUnit}-->
+<MegaWattHour type="/iotschema/ActiveEnergyUnit" reader="*" writer="*">
+
+</MegaWattHour>

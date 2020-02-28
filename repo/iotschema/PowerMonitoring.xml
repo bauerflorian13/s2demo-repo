@@ -1,0 +1,38 @@
+<!--TAGS_MODEL: ["PowerMonitoring", "Power", "Capability", "Industry", "Energy", "Building", "Monitoring", "Home"]-->
+<!--DESCRIPTION_MODEL: "A capability for power monitoring in an electric circuit."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<PowerMonitoring type="/iotschema/Capability,/iotschema/PowerMonitoring,/iotschema/Class" reader="*" writer="*">
+
+	<totalPowerFactor type="/iotschema/totalPowerFactor" reader="*" writer="*"></totalPowerFactor>
+
+	<totalActivePower type="/iotschema/totalActivePower" reader="*" writer="*"></totalActivePower>
+
+	<apparentPowerC type="/iotschema/apparentPowerC" reader="*" writer="*"></apparentPowerC>
+
+	<apparentPowerB type="/iotschema/apparentPowerB" reader="*" writer="*"></apparentPowerB>
+
+	<totalReactivePower type="/iotschema/totalReactivePower" reader="*" writer="*"></totalReactivePower>
+
+	<activePowera type="/iotschema/activePowera" reader="*" writer="*"></activePowera>
+
+	<powerFactorC type="/iotschema/powerFactorC" reader="*" writer="*"></powerFactorC>
+
+	<powerFactorA type="/iotschema/powerFactorA" reader="*" writer="*"></powerFactorA>
+
+	<powerFactorB type="/iotschema/powerFactorB" reader="*" writer="*"></powerFactorB>
+
+	<apparentPowera type="/iotschema/apparentPowera" reader="*" writer="*"></apparentPowera>
+
+	<activePowerC type="/iotschema/activePowerC" reader="*" writer="*"></activePowerC>
+
+	<activePowerB type="/iotschema/activePowerB" reader="*" writer="*"></activePowerB>
+
+	<totalApparentPower type="/iotschema/totalApparentPower" reader="*" writer="*"></totalApparentPower>
+
+	<reactivePowerB type="/iotschema/reactivePowerB" reader="*" writer="*"></reactivePowerB>
+
+	<reactivePowerC type="/iotschema/reactivePowerC" reader="*" writer="*"></reactivePowerC>
+
+	<reactivePowerA type="/iotschema/reactivePowerA" reader="*" writer="*"></reactivePowerA>
+
+</PowerMonitoring>

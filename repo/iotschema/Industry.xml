@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["Industry", "Domain"]-->
+<!--DESCRIPTION_MODEL: "Industry Domain"-->
+<!--METAINFORMATION_MODEL: {TYPE=Domain}-->
+<Industry type="/iotschema/Domain" reader="*" writer="*">
+
+</Industry>

@@ -1,0 +1,1 @@
+{"types":["/iotschema/Enumeration","/iotschema/Class"],"children":[],"reader":"*","name":"Domain","description":"'Specifies a domain e.g., Building domain, Mobility domain, or domain agnostic (Common domain).'","restrictions":[],"writer":"*","metaInformation":{"TYPE":"Class"},"tags":["Domain"]}

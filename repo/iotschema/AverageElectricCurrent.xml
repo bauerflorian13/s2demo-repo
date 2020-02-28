@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["AverageElectricCurrent", "Read-only", "Pattern", "Interaction", "Current", "Average", "Observable", "Property", "Electric", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "The average electric current."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<AverageElectricCurrent type="/iotschema/Class,/iotschema/Property" reader="*" writer=" ">
+
+	<providesElectricCurrentData type="/iotschema/providesElectricCurrentData" reader="*" writer="*"></providesElectricCurrentData>
+
+</AverageElectricCurrent>

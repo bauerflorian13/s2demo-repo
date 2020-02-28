@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["Microampere", "Current", "Unit", "Electric", "ElectricCurrentUnit"]-->
+<!--DESCRIPTION_MODEL: "The unit of electric current, expressed in a unit prefix meaning 'one millionth'."-->
+<!--METAINFORMATION_MODEL: {REFERENCE="0112/2///62720#UAA057#001", TYPE=ElectricCurrentUnit}-->
+<MicroAmpere type="/iotschema/ElectricCurrentUnit" reader="*" writer="*">
+
+</MicroAmpere>

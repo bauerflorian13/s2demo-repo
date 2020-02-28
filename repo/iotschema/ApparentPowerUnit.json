@@ -1,0 +1,1 @@
+{"types":["/iotschema/Enumeration","/iotschema/Class"],"children":[],"reader":"*","name":"ApparentPowerUnit","description":"'An enumeration of apparent power units.'","restrictions":[],"writer":"*","metaInformation":{"TYPE":"Class"},"tags":["ApparentPowerUnit","Power","Unit","Apparent"]}

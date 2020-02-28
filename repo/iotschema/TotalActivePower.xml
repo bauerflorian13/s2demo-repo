@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Read-only", "TotalActivePower", "Pattern", "Interaction", "Power", "Observable", "Active", "Property", "Total", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "The total active power."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<TotalActivePower type="/iotschema/Class,/iotschema/Property" reader="*" writer=" ">
+
+	<providesActivePowerData type="/iotschema/providesActivePowerData" reader="*" writer="*"></providesActivePowerData>
+
+</TotalActivePower>

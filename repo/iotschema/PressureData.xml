@@ -1,0 +1,14 @@
+<!--TAGS_MODEL: ["Data", "Pressure", "PressureData"]-->
+<!--DESCRIPTION_MODEL: " Pressure data"-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<PressureData type="/iotschema/PressureData,/iotschema/PropertyValue,/iotschema/Class" reader="*" writer="*">
+
+	<minValue type="/iotschema/minValue" reader="*" writer="*"></minValue>
+
+	<maxValue type="/iotschema/maxValue" reader="*" writer="*"></maxValue>
+
+	<numberDataType type="/iotschema/numberDataType" reader="*" writer="*"></numberDataType>
+
+	<pressureUnitCode type="/iotschema/pressureUnitCode" reader="*" writer="*"></pressureUnitCode>
+
+</PressureData>

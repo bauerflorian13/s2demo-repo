@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Sensing", "Common", "Capability", "TemperatureSensing", "Temperature"]-->
+<!--DESCRIPTION_MODEL: "A capability for temperature sensing"-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<TemperatureSensing type="/iotschema/Capability,/iotschema/Class" reader="*" writer="*">
+
+	<temperature type="/iotschema/temperature" reader="*" writer="*"></temperature>
+
+</TemperatureSensing>

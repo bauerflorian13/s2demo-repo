@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["Kilovolt-ampere-hours", "Energy", "ApparentEnergyUnit", "Unit", "Apparent"]-->
+<!--DESCRIPTION_MODEL: "The unit of the apparent enregy, expressed in kilo (one thousand) as a decimal unit prefix."-->
+<!--METAINFORMATION_MODEL: {TYPE=ApparentEnergyUnit}-->
+<KiloVoltAmpereHours type="/iotschema/ApparentEnergyUnit" reader="*" writer="*">
+
+</KiloVoltAmpereHours>

@@ -1,0 +1,1 @@
+{"types":["/iotschema/Enumeration","/iotschema/Class"],"children":[],"reader":"*","name":"ActiveEnergyUnit","description":"'An enumeration of active enregy units.'","restrictions":[],"writer":"*","metaInformation":{"TYPE":"Class"},"tags":["ActiveEnergyUnit","Energy","Active","Unit"]}

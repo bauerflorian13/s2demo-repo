@@ -1,0 +1,1 @@
+{"types":["/iotschema/Enumeration","/iotschema/Class"],"children":[],"reader":"*","name":"DensityUnit","description":"'An enumeration of density units.'","restrictions":[],"writer":"*","metaInformation":{"TYPE":"Class"},"tags":["Unit","Density","DensityUnit"]}

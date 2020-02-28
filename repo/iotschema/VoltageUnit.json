@@ -1,0 +1,1 @@
+{"types":["/iotschema/Enumeration","/iotschema/Class"],"children":[],"reader":"*","name":"VoltageUnit","description":"'An enumeration of voltage units.'","restrictions":[],"writer":"*","metaInformation":{"TYPE":"Class"},"tags":["VoltageUnit","Unit","Voltage"]}

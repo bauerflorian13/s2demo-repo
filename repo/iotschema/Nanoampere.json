@@ -1,0 +1,1 @@
+{"types":["/iotschema/LineFrequencyUnit"],"children":[],"reader":"*","name":"Nanoampere","description":"'The unit of line frequency, expressed in a unit prefix meaning 'one billionth'.'","restrictions":[],"writer":"*","metaInformation":{"TYPE":"LineFrequencyUnit"},"tags":["LineFrequencyUnit","Frequency","Line","Unit","Nanohertz"]}

@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Pattern", "Interaction", "Is", "IsPropertyOf", "Of", "Property", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "Relation between a Property and the entity it belongs to."-->
+<!--METAINFORMATION_MODEL: {SOURCE="http://www.w3.org/ns/ssn/isPropertyOf", TYPE=Property}-->
+<isPropertyOf type="/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/FeatureOfInterest" reader="*" writer="*"></expectedReturnType>
+
+</isPropertyOf>

@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Pattern", "Interaction", "IsObservedBy", "Is", "By", "Property", "Observed", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "Relation between a PropertyValue and the Sensor which is able to observe it."-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<isObservedBy type="/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/Sensor" reader="*" writer="*"></expectedReturnType>
+
+</isObservedBy>

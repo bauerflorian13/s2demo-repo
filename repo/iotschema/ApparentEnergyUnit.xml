@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["Energy", "ApparentEnergyUnit", "Unit", "Apparent"]-->
+<!--DESCRIPTION_MODEL: "An enumeration of apparent energy units."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<ApparentEnergyUnit type="/iotschema/Enumeration,/iotschema/Class" reader="*" writer="*">
+
+</ApparentEnergyUnit>

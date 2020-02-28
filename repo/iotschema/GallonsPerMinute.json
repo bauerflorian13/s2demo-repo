@@ -1,0 +1,1 @@
+{"types":["/iotschema/FlowRateUnit"],"children":[],"reader":"*","name":"GallonsPerMinute","description":"'unit of measurement of liquid flow rate'","restrictions":[],"writer":"*","metaInformation":{"SOURCE":"\"http://data.nasa.gov/qudt/owl/unit#GallonUSPerMinute\"","TYPE":"FlowRateUnit"},"tags":["Gallons","Per","Flow","Minute","GallonsPerMinute","Rate","Unit","FlowRateUnit"]}

@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Pattern", "Provides", "Interaction", "Reactive", "Energy", "ProvidesInteractionPattern", "Imported", "Property", "ReactiveEnergyImported", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "A property that relates a capability with its ReactiveEnergyImported interaction pattern."-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<reactiveEnergyImported type="/iotschema/providesInteractionPattern,/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/ReactiveEnergyImported" reader="*" writer="*"></expectedReturnType>
+
+</reactiveEnergyImported>

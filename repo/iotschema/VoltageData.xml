@@ -1,0 +1,14 @@
+<!--TAGS_MODEL: ["Data", "VoltageData", "Voltage"]-->
+<!--DESCRIPTION_MODEL: "Voltage data."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<VoltageData type="/iotschema/PropertyValue,/iotschema/VoltageData,/iotschema/Class" reader="*" writer="*">
+
+	<numberDataType type="/iotschema/numberDataType" reader="*" writer="*"></numberDataType>
+
+	<voltageUnitCode type="/iotschema/voltageUnitCode" reader="*" writer="*"></voltageUnitCode>
+
+	<maxValue type="/iotschema/maxValue" reader="*" writer="*"></maxValue>
+
+	<minValue type="/iotschema/minValue" reader="*" writer="*"></minValue>
+
+</VoltageData>

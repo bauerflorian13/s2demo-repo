@@ -1,0 +1,16 @@
+<!--TAGS_MODEL: ["EnergyMonitoring", "Capability", "Industry", "Energy", "Building", "Monitoring", "Home"]-->
+<!--DESCRIPTION_MODEL: "A capability for energy monitoring in an electric circuit."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<EnergyMonitoring type="/iotschema/Capability,/iotschema/Class" reader="*" writer="*">
+
+	<reactiveEnergyExported type="/iotschema/reactiveEnergyExported" reader="*" writer="*"></reactiveEnergyExported>
+
+	<activeEnergyExported type="/iotschema/activeEnergyExported" reader="*" writer="*"></activeEnergyExported>
+
+	<apparentEnergy type="/iotschema/apparentEnergy" reader="*" writer="*"></apparentEnergy>
+
+	<activeEnergyImported type="/iotschema/activeEnergyImported" reader="*" writer="*"></activeEnergyImported>
+
+	<reactiveEnergyImported type="/iotschema/reactiveEnergyImported" reader="*" writer="*"></reactiveEnergyImported>
+
+</EnergyMonitoring>

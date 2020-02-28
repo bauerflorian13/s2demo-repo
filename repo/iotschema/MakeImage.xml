@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["MakeImage", "Pattern", "Interaction", "Image", "Action", "Make", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "Takes a single (snapshot) image."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<MakeImage type="/iotschema/Action,/iotschema/Class" reader="*" writer="*">
+
+</MakeImage>

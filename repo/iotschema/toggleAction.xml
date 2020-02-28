@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Pattern", "Provides", "Interaction", "Toggle", "ProvidesInteractionPattern", "Action", "Property", "ToggleAction", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "An action that relates a capability with its ToggleAction interaction pattern."-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<toggleAction type="/iotschema/providesInteractionPattern,/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/ToggleAction" reader="*" writer="*"></expectedReturnType>
+
+</toggleAction>

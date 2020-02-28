@@ -1,0 +1,12 @@
+<!--TAGS_MODEL: ["WindData", "Data", "Wind"]-->
+<!--DESCRIPTION_MODEL: "Wind data"-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<WindData type="/iotschema/WindData,/iotschema/PropertyValue,/iotschema/Class" reader="*" writer="*">
+
+	<numberDataType type="/iotschema/numberDataType" reader="*" writer="*"></numberDataType>
+
+	<minValue type="/iotschema/minValue" reader="*" writer="*"></minValue>
+
+	<maxValue type="/iotschema/maxValue" reader="*" writer="*"></maxValue>
+
+</WindData>

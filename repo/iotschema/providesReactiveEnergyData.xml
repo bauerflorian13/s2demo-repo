@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Provides", "Pattern", "ProvidesReactiveEnergyData", "Interaction", "Reactive", "Data", "Energy", "Property", "ProvidesOutputData", "Output", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "A property that relates an Interaction Pattern with its output ReactiveEnergyData."-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<providesReactiveEnergyData type="/iotschema/providesOutputData,/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/ReactiveEnergyData" reader="*" writer="*"></expectedReturnType>
+
+</providesReactiveEnergyData>

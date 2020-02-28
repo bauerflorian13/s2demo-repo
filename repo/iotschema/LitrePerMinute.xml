@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["Per", "LitrePerMinute", "Flow", "Minute", "Rate", "Litre", "Unit", "FlowRateUnit"]-->
+<!--DESCRIPTION_MODEL: "Unit of measurement of flow rate of a substance"-->
+<!--METAINFORMATION_MODEL: {REFERENCE="0112/2///62720#UAA659#001", TYPE=FlowRateUnit}-->
+<LitrePerMinute type="/iotschema/FlowRateUnit" reader="*" writer="*">
+
+</LitrePerMinute>

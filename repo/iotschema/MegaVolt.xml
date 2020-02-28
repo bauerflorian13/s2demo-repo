@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["VoltageUnit", "Megavolt", "Unit", "Voltage"]-->
+<!--DESCRIPTION_MODEL: "The unit of voltage, expressed in a unit prefix meaning 'one million'."-->
+<!--METAINFORMATION_MODEL: {REFERENCE="0112/2///62720#UAA221#001", TYPE=VoltageUnit}-->
+<MegaVolt type="/iotschema/VoltageUnit" reader="*" writer="*">
+
+</MegaVolt>

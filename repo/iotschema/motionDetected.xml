@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Pattern", "Provides", "Interaction", "Detected", "ProvidesInteractionPattern", "Property", "MotionDetected", "Motion", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "An event that relates a capability with its MotionDetected interaction pattern."-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<motionDetected type="/iotschema/providesInteractionPattern,/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/MotionDetected" reader="*" writer="*"></expectedReturnType>
+
+</motionDetected>

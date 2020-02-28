@@ -1,0 +1,1 @@
+{"types":["/iotschema/PropertyValue","/iotschema/Class"],"children":[{"types":["/iotschema/Number"],"reader":"*","name":"Number","description":"","restrictions":[],"writer":"*","metaInformation":{},"tags":[]}],"reader":"*","name":"TimeData","description":"'Time data'","restrictions":[],"writer":"*","metaInformation":{"TYPE":"Class"},"tags":["TimeData","Time","Data"]}

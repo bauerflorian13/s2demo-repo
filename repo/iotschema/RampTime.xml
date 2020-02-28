@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Writeable", "Pattern", "Interaction", "RampTime", "Time", "Ramp", "Observable", "Property", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "Actual speed of changing between 2 dimming values"-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<RampTime type="/iotschema/Class,/iotschema/Property" reader="*" writer="*">
+
+	<acceptsRampTimeData type="/iotschema/acceptsRampTimeData" reader="*" writer="*"></acceptsRampTimeData>
+
+</RampTime>

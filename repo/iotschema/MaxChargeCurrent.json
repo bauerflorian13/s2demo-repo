@@ -1,0 +1,1 @@
+{"types":["/iotschema/Property","/iotschema/Class"],"children":[],"reader":"*","name":"MaxChargeCurrent","description":"'It is the charge electric current limit (CCL).'","restrictions":[],"writer":" ","metaInformation":{"TYPE":"Class"},"tags":["Read-only","Charge","Pattern","Max","Interaction","Current","Observable","MaxChargeCurrent","Property","InteractionPattern"]}

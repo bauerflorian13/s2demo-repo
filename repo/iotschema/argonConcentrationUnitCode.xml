@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Pattern", "Interaction", "ArgonConcentrationUnitCode", "Concentration", "Argon", "Unit", "Property", "Code", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "A property that relates iot:argonConcentrationUnitCode with its unit."-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<argonConcentrationUnitCode type="/iotschema/unitCode,/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/GasInAirConcentrationUnit" reader="*" writer="*"></expectedReturnType>
+
+</argonConcentrationUnitCode>

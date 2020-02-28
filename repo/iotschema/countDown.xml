@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Pattern", "Provides", "CountDown", "Interaction", "ProvidesInteractionPattern", "Down", "Property", "Count", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "A property that relates a capability with its CountDown interaction pattern."-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<countDown type="/iotschema/providesInteractionPattern,/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/CountDown" reader="*" writer="*"></expectedReturnType>
+
+</countDown>

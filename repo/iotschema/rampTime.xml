@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Pattern", "Provides", "Interaction", "RampTime", "Time", "Ramp", "ProvidesInteractionPattern", "Property", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "A property that relates a capability with its RampTime interaction pattern."-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<rampTime type="/iotschema/providesInteractionPattern,/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/RampTime" reader="*" writer="*"></expectedReturnType>
+
+</rampTime>

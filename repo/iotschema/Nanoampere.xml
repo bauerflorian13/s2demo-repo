@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["LineFrequencyUnit", "Frequency", "Line", "Unit", "Nanohertz"]-->
+<!--DESCRIPTION_MODEL: "The unit of line frequency, expressed in a unit prefix meaning 'one billionth'."-->
+<!--METAINFORMATION_MODEL: {TYPE=LineFrequencyUnit}-->
+<Nanoampere type="/iotschema/LineFrequencyUnit" reader="*" writer="*">
+
+</Nanoampere>

@@ -1,0 +1,10 @@
+<!--TAGS_MODEL: ["Control", "Capability", "Building", "ColourControl", "Colour", "Home"]-->
+<!--DESCRIPTION_MODEL: "The capability to set a color, e.g. for a colored light."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<ColourControl type="/iotschema/Capability,/iotschema/Class" reader="*" writer="*">
+
+	<currentcolour type="/iotschema/currentcolour" reader="*" writer="*"></currentcolour>
+
+	<setColour type="/iotschema/setColour" reader="*" writer="*"></setColour>
+
+</ColourControl>

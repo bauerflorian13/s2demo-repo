@@ -1,0 +1,14 @@
+<!--TAGS_MODEL: ["Pattern", "Interaction", "Property", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "Property subclass of InteractionPattern"-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<Property type="/iotschema/InteractionPattern,/iotschema/Class,/iotschema/Property" reader="*" writer="*">
+
+	<isPropertyOf type="/iotschema/isPropertyOf" reader="*" writer="*"></isPropertyOf>
+
+	<isObservedBy type="/iotschema/isObservedBy" reader="*" writer="*"></isObservedBy>
+
+	<observable type="/iotschema/observable" reader="*" writer="*"></observable>
+
+	<writable type="/iotschema/writable" reader="*" writer="*"></writable>
+
+</Property>

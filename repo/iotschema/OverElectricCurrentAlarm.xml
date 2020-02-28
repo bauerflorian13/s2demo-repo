@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["Pattern", "OverElectricCurrentAlarm", "Interaction", "Current", "Over", "Event", "Electric", "Alarm", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "Too high electric current (e.g., a battery is charged or discharged with)."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<OverElectricCurrentAlarm type="/iotschema/Event,/iotschema/Class" reader="*" writer="*">
+
+</OverElectricCurrentAlarm>

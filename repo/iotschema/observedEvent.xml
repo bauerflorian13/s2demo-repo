@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Pattern", "Interaction", "ObservedEvent", "Event", "Property", "Observed", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: " Relation linking a PropertyValue to the Event that was observed. The Property or Event should be a property of the FeatureOfInterest (linked by hasFeatureOfInterest) of this PropertyValue. "-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<observedEvent type="/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/Event" reader="*" writer="*"></expectedReturnType>
+
+</observedEvent>

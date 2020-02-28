@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["Power", "RunModeType", "Energy", "Mode", "Saver", "Type", "EnergyOrPowerSaverMode", "Or", "Run"]-->
+<!--DESCRIPTION_MODEL: "Energy Or Power Saver Mode"-->
+<!--METAINFORMATION_MODEL: {TYPE=RunModeType}-->
+<EnergyOrPowerSaverMode type="/iotschema/RunModeType" reader="*" writer="*">
+
+</EnergyOrPowerSaverMode>

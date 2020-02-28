@@ -1,0 +1,1 @@
+{"types":["/iotschema/PropertyValue","/iotschema/Class"],"children":[{"types":["/iotschema/Number"],"reader":"*","name":"Number","description":"","restrictions":[],"writer":"*","metaInformation":{},"tags":[]}],"reader":"*","name":"LevelData","description":"'Level data'","restrictions":[],"writer":"*","metaInformation":{"TYPE":"Class"},"tags":["LevelData","Data","Level"]}

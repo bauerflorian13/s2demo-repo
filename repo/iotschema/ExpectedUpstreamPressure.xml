@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Read-only", "Pattern", "Interaction", "Expected", "ExpectedUpstreamPressure", "Upstream", "Observable", "Property", "Pressure", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "Expected upstream pressure"-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<ExpectedUpstreamPressure type="/iotschema/Class,/iotschema/Property" reader="*" writer=" ">
+
+	<providesPressureData type="/iotschema/providesPressureData" reader="*" writer="*"></providesPressureData>
+
+</ExpectedUpstreamPressure>

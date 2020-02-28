@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["RunModeType", "CoolMode", "Mode", "Type", "Cool", "Run"]-->
+<!--DESCRIPTION_MODEL: "Cool mode"-->
+<!--METAINFORMATION_MODEL: {TYPE=RunModeType}-->
+<CoolMode type="/iotschema/RunModeType" reader="*" writer="*">
+
+</CoolMode>

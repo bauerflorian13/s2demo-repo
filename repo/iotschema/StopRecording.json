@@ -1,0 +1,1 @@
+{"types":["/iotschema/Action","/iotschema/Class"],"children":[],"reader":"*","name":"StopRecording","description":"'Stops a recording activity (e.g., audio-, video-recording).'","restrictions":[],"writer":"*","metaInformation":{"TYPE":"Class"},"tags":["Pattern","Stop","Interaction","Action","Recording","StopRecording","InteractionPattern"]}

@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["IsEventOf", "Pattern", "Interaction", "Is", "Of", "Event", "Property", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "Relation between an Event and the entity it belongs to."-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<isEventOf type="/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/FeatureOfInterest" reader="*" writer="*"></expectedReturnType>
+
+</isEventOf>

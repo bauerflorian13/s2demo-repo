@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["Off", "Pattern", "Interaction", "Turn", "Action", "TurnOff", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "Turn off a switch."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<TurnOff type="/iotschema/Action,/iotschema/Class" reader="*" writer="*">
+
+</TurnOff>

@@ -1,0 +1,10 @@
+<!--TAGS_MODEL: ["Device", "Actuator"]-->
+<!--DESCRIPTION_MODEL: "Actuator - A device that is used to change the state of the world. "-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<Actuator type="/iotschema/Device,/iotschema/Class" reader="*" writer="*">
+
+	<forProperty type="/iotschema/forProperty" reader="*" writer="*"></forProperty>
+
+	<madeActuation type="/iotschema/madeActuation" reader="*" writer="*"></madeActuation>
+
+</Actuator>

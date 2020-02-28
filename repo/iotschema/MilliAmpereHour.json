@@ -1,0 +1,1 @@
+{"types":["/iotschema/ElectricChargeUnit"],"children":[],"reader":"*","name":"MilliAmpereHour","description":"'The unit of the electric charge (battery capacity), expressed in a unit prefix meaning 'one thousandth'.'","restrictions":[],"writer":"*","metaInformation":{"REFERENCE":"\"0112/2///62720#UAA777#001\"","TYPE":"ElectricChargeUnit"},"tags":["Milli-ampere-hour"]}

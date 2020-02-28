@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["LineFrequencyUnit", "Frequency", "Line", "Unit", "Kilohertz"]-->
+<!--DESCRIPTION_MODEL: "The unit of line frequency, expressed in a unit prefix meaning 'one thousand'."-->
+<!--METAINFORMATION_MODEL: {REFERENCE="0112/2///62720#UAA566#001", SOURCE="http://www.qudt.org/qudt/owl/1.0.0/unit/Instances.html#KiloHertz", TYPE=LineFrequencyUnit}-->
+<KiloHertz type="/iotschema/LineFrequencyUnit" reader="*" writer="*">
+
+</KiloHertz>

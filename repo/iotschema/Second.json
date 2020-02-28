@@ -1,0 +1,1 @@
+{"types":["/iotschema/TimeUnit"],"children":[],"reader":"*","name":"Second","description":"'Second Time Unit'","restrictions":[],"writer":"*","metaInformation":{"REFERENCE":"\"0112/2///62720#UAA972#001\"","SOURCE":"\"http://data.nasa.gov/qudt/owl/unit#SecondTime\"","TYPE":"TimeUnit"},"tags":["Second","Time","Unit","TimeUnit"]}

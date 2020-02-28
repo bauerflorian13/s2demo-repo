@@ -1,0 +1,18 @@
+<!--TAGS_MODEL: ["Capability", "Industry", "Valve"]-->
+<!--DESCRIPTION_MODEL: "A capability of a valve"-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<Valve type="/iotschema/Capability,/iotschema/Valve,/iotschema/Class" reader="*" writer="*">
+
+	<expectedUpstreamPressure type="/iotschema/expectedUpstreamPressure" reader="*" writer="*"></expectedUpstreamPressure>
+
+	<turnOff type="/iotschema/turnOff" reader="*" writer="*"></turnOff>
+
+	<expectedPressure type="/iotschema/expectedPressure" reader="*" writer="*"></expectedPressure>
+
+	<operationStatus type="/iotschema/operationStatus" reader="*" writer="*"></operationStatus>
+
+	<turnOn type="/iotschema/turnOn" reader="*" writer="*"></turnOn>
+
+	<expectedFlowRate type="/iotschema/expectedFlowRate" reader="*" writer="*"></expectedFlowRate>
+
+</Valve>

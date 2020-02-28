@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["ActiveEnergyUnit", "Energy", "Active", "Unit"]-->
+<!--DESCRIPTION_MODEL: "An enumeration of active enregy units."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<ActiveEnergyUnit type="/iotschema/Enumeration,/iotschema/Class" reader="*" writer="*">
+
+</ActiveEnergyUnit>

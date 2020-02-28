@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Read-only", "Dimmer", "Pattern", "Interaction", "Current", "Observable", "Property", "CurrentDimmer", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "Get quantized representation of the current sensed value for brightness (e.g., in the range 0-100)"-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<CurrentDimmer type="/iotschema/Class,/iotschema/Property" reader="*" writer=" ">
+
+	<providesDimmerData type="/iotschema/providesDimmerData" reader="*" writer="*"></providesDimmerData>
+
+</CurrentDimmer>

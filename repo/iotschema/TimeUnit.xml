@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["Time", "Unit", "TimeUnit"]-->
+<!--DESCRIPTION_MODEL: "An enumeration of time unit."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<TimeUnit type="/iotschema/Enumeration,/iotschema/Class" reader="*" writer="*">
+
+</TimeUnit>

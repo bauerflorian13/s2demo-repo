@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["Pattern", "Interaction", "Over", "OverTemperatureAlarm", "Event", "Alarm", "Temperature", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "Too high temperature."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<OverTemperatureAlarm type="/iotschema/Event,/iotschema/Class" reader="*" writer="*">
+
+</OverTemperatureAlarm>

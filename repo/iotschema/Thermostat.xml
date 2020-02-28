@@ -1,0 +1,10 @@
+<!--TAGS_MODEL: ["Common", "Thermostat", "Capability"]-->
+<!--DESCRIPTION_MODEL: "A capability for thermostat"-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<Thermostat type="/iotschema/Thermostat,/iotschema/Capability,/iotschema/Class" reader="*" writer="*">
+
+	<targetTemperature type="/iotschema/targetTemperature" reader="*" writer="*"></targetTemperature>
+
+	<temperature type="/iotschema/temperature" reader="*" writer="*"></temperature>
+
+</Thermostat>

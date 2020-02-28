@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["LineFrequencyUnit", "Frequency", "Line", "Unit"]-->
+<!--DESCRIPTION_MODEL: "An enumeration of line frequency units."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<LineFrequencyUnit type="/iotschema/Enumeration,/iotschema/Class" reader="*" writer="*">
+
+</LineFrequencyUnit>

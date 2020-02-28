@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Pattern", "Interaction", "Property", "Domain", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "Specifies a domain e.g., Building domain, Mobility domain, or domain agnostic (Common domain)."-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<domain type="/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/Domain" reader="*" writer="*"></expectedReturnType>
+
+</domain>

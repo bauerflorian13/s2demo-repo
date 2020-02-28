@@ -1,0 +1,10 @@
+<!--TAGS_MODEL: ["Charge", "Pattern", "Battery", "Interaction", "ChargeBattery", "Action", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "Charge a battery (an electric power storage system) either with C-rate or E-rate.)"-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<ChargeBattery type="/iotschema/Action,/iotschema/Class" reader="*" writer="*">
+
+	<acceptsCRateData type="/iotschema/acceptsCRateData" reader="*" writer="*"></acceptsCRateData>
+
+	<acceptsERateData type="/iotschema/acceptsERateData" reader="*" writer="*"></acceptsERateData>
+
+</ChargeBattery>

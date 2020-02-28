@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Writeable", "Pattern", "ReactiveEnergyExported", "Interaction", "Reactive", "Energy", "Observable", "Property", "Exported", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "The electric energy derived from reactive power over a period of time, and exported (delivered)."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<ReactiveEnergyExported type="/iotschema/Class,/iotschema/Property" reader="*" writer="*">
+
+	<providesReactiveEnergyData type="/iotschema/providesReactiveEnergyData" reader="*" writer="*"></providesReactiveEnergyData>
+
+</ReactiveEnergyExported>

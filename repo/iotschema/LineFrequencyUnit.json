@@ -1,0 +1,1 @@
+{"types":["/iotschema/Enumeration","/iotschema/Class"],"children":[],"reader":"*","name":"LineFrequencyUnit","description":"'An enumeration of line frequency units.'","restrictions":[],"writer":"*","metaInformation":{"TYPE":"Class"},"tags":["LineFrequencyUnit","Frequency","Line","Unit"]}

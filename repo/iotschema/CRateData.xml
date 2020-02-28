@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Rate", "Data", "CRateData"]-->
+<!--DESCRIPTION_MODEL: "C or C-rate is a measure of the rate at which a battery is charged or discharged relative to its capacity. The unit of the C-rate is h−1, equivalent to stating the battery's capacity to store an electrical charge in unit hour times current in the same unit as the charge or discharge current."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<CRateData type="/iotschema/PropertyValue,/iotschema/CRateData,/iotschema/Class" reader="*" writer="*">
+
+	<cRateUnitCode type="/iotschema/cRateUnitCode" reader="*" writer="*"></cRateUnitCode>
+
+</CRateData>

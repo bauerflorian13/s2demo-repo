@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Pattern", "Interaction", "Made", "Observation", "Property", "MadeObservation", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: " Relation between a Sensor and a PropertyValue it has made. "-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<madeObservation type="/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/PropertyValue" reader="*" writer="*"></expectedReturnType>
+
+</madeObservation>

@@ -1,0 +1,14 @@
+<!--TAGS_MODEL: ["Flow", "FlowRateData", "Rate", "Data"]-->
+<!--DESCRIPTION_MODEL: " Flow rate data"-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<FlowRateData type="/iotschema/PropertyValue,/iotschema/Class,/iotschema/FlowRateData" reader="*" writer="*">
+
+	<flowRateUnitCode type="/iotschema/flowRateUnitCode" reader="*" writer="*"></flowRateUnitCode>
+
+	<minValue type="/iotschema/minValue" reader="*" writer="*"></minValue>
+
+	<maxValue type="/iotschema/maxValue" reader="*" writer="*"></maxValue>
+
+	<numberDataType type="/iotschema/numberDataType" reader="*" writer="*"></numberDataType>
+
+</FlowRateData>

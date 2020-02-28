@@ -1,0 +1,10 @@
+<!--TAGS_MODEL: ["HumiditySensing", "Sensing", "Capability", "Building", "Humidity", "Home"]-->
+<!--DESCRIPTION_MODEL: "Current sensed value for Humidity."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<HumiditySensing type="/iotschema/Capability,/iotschema/HumiditySensing,/iotschema/Class" reader="*" writer="*">
+
+	<humidity type="/iotschema/humidity" reader="*" writer="*"></humidity>
+
+	<targetHumidity type="/iotschema/targetHumidity" reader="*" writer="*"></targetHumidity>
+
+</HumiditySensing>

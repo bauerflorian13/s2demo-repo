@@ -1,0 +1,1 @@
+{"name":"Sensor","meta-info":{"TYPE":"Class"},"description":"\"Sensor - Device, agent (including humans), or software (simulation). Sensors respond to a Stimulus, e.g., a change in the environment, data composed from the Results of prior Observations, and generate a Result.\"","tags":["Device","Sensor"]}

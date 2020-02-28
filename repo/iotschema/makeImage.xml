@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["MakeImage", "Pattern", "Provides", "Interaction", "ProvidesInteractionPattern", "Image", "Property", "Make", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "An action that relates a capability with its MakeImage interaction pattern."-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<makeImage type="/iotschema/providesInteractionPattern,/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/MakeImage" reader="*" writer="*"></expectedReturnType>
+
+</makeImage>

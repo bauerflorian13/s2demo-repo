@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["On", "Pattern", "ActsOnProperty", "Interaction", "Acts", "Property", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "Relation between a PropertyValue and the Action of a FeatureOfInterest it is acting upon."-->
+<!--METAINFORMATION_MODEL: {SOURCE="http://www.w3.org/ns/sosa/actsOnProperty", TYPE=Property}-->
+<actsOnProperty type="/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/Action" reader="*" writer="*"></expectedReturnType>
+
+</actsOnProperty>

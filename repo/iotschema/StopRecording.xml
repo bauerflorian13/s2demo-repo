@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["Pattern", "Stop", "Interaction", "Action", "Recording", "StopRecording", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "Stops a recording activity (e.g., audio-, video-recording)."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<StopRecording type="/iotschema/Action,/iotschema/Class" reader="*" writer="*">
+
+</StopRecording>

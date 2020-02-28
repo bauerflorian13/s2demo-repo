@@ -1,0 +1,10 @@
+<!--TAGS_MODEL: ["Pattern", "Interaction", "Event", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "Event subclass of InteractionPattern"-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<Event type="/iotschema/InteractionPattern,/iotschema/Class" reader="*" writer="*">
+
+	<isEventOf type="/iotschema/isEventOf" reader="*" writer="*"></isEventOf>
+
+	<isObservedBy type="/iotschema/isObservedBy" reader="*" writer="*"></isObservedBy>
+
+</Event>

@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["ApparentPowerUnit", "Power", "Unit", "Apparent", "Teravolt-ampere-hours"]-->
+<!--DESCRIPTION_MODEL: "The unit of the apparent enregy, expressed in giga (one trillion) as a decimal unit prefix."-->
+<!--METAINFORMATION_MODEL: {TYPE=ApparentPowerUnit}-->
+<TeraVoltAmpereHours type="/iotschema/ApparentPowerUnit" reader="*" writer="*">
+
+</TeraVoltAmpereHours>

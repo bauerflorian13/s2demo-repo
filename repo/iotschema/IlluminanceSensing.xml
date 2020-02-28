@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Sensing", "Capability", "Illuminance", "Building", "IlluminanceSensing", "Home"]-->
+<!--DESCRIPTION_MODEL: "Sensed luminous flux per unit area in lux."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<IlluminanceSensing type="/iotschema/Capability,/iotschema/Class" reader="*" writer="*">
+
+	<illuminance type="/iotschema/illuminance" reader="*" writer="*"></illuminance>
+
+</IlluminanceSensing>

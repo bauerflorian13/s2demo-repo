@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Pattern", "Provides", "Interaction", "OverPressureAlarm", "ProvidesInteractionPattern", "Over", "Property", "Pressure", "Alarm", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "An event that relates a capability with its OverPressureAlarm interaction pattern."-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<overPressureAlarm type="/iotschema/providesInteractionPattern,/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/OverPressureAlarm" reader="*" writer="*"></expectedReturnType>
+
+</overPressureAlarm>

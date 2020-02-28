@@ -1,0 +1,1 @@
+{"types":["/iotschema/RunModeType"],"children":[],"reader":"*","name":"SleepMode","description":"'Sleep Mode'","restrictions":[],"writer":"*","metaInformation":{"TYPE":"RunModeType"},"tags":["SleepMode","RunModeType","Mode","Sleep","Type","Run"]}

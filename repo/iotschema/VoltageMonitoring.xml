@@ -1,0 +1,22 @@
+<!--TAGS_MODEL: ["Capability", "Industry", "Energy", "Building", "Monitoring", "Voltage", "Home", "VoltageMonitoring"]-->
+<!--DESCRIPTION_MODEL: "A capability for voltage monitoring in an electric circuit."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<VoltageMonitoring type="/iotschema/Capability,/iotschema/VoltageMonitoring,/iotschema/Class" reader="*" writer="*">
+
+	<phaseToNeutralVoltageC type="/iotschema/phaseToNeutralVoltageC" reader="*" writer="*"></phaseToNeutralVoltageC>
+
+	<phaseToNeutralVoltageB type="/iotschema/phaseToNeutralVoltageB" reader="*" writer="*"></phaseToNeutralVoltageB>
+
+	<phaseTophaseVoltageAB type="/iotschema/phaseTophaseVoltageAB" reader="*" writer="*"></phaseTophaseVoltageAB>
+
+	<phaseTophaseVoltageCA type="/iotschema/phaseTophaseVoltageCA" reader="*" writer="*"></phaseTophaseVoltageCA>
+
+	<phaseTophaseVoltageBC type="/iotschema/phaseTophaseVoltageBC" reader="*" writer="*"></phaseTophaseVoltageBC>
+
+	<averagePhaseToPhaseVoltage type="/iotschema/averagePhaseToPhaseVoltage" reader="*" writer="*"></averagePhaseToPhaseVoltage>
+
+	<averagePhaseToNeutralVoltage type="/iotschema/averagePhaseToNeutralVoltage" reader="*" writer="*"></averagePhaseToNeutralVoltage>
+
+	<phaseToNeutralVoltageA type="/iotschema/phaseToNeutralVoltageA" reader="*" writer="*"></phaseToNeutralVoltageA>
+
+</VoltageMonitoring>

@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["System", "Power", "Capability", "Building", "Energy", "ElectricPowerSystem", "Electric", "Home"]-->
+<!--DESCRIPTION_MODEL: "The class of electric power systems, i.e., systems that exchange electricity (i.e., electric power) with other systems. Electric power systems may consume, produce, or store electricity"-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<ElectricPowerSystem type="/iotschema/Capability,/iotschema/Class" reader="*" writer="*">
+
+	<pccpower type="/iotschema/pccpower" reader="*" writer="*"></pccpower>
+
+</ElectricPowerSystem>

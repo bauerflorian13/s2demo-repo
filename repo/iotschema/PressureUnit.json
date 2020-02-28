@@ -1,0 +1,1 @@
+{"types":["/iotschema/Enumeration","/iotschema/Class"],"children":[],"reader":"*","name":"PressureUnit","description":"'An enumeration of pressure units.'","restrictions":[],"writer":"*","metaInformation":{"TYPE":"Class"},"tags":["PressureUnit","Unit","Pressure"]}

@@ -1,0 +1,16 @@
+<!--TAGS_MODEL: ["Capability", "Industry", "Current", "Building", "Energy", "Monitoring", "Electric", "Home", "ElectricCurrentMonitoring"]-->
+<!--DESCRIPTION_MODEL: "A capability for current monitoring in an electric circuit."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<ElectricCurrentMonitoring type="/iotschema/Capability,/iotschema/Class" reader="*" writer="*">
+
+	<lineFrequency type="/iotschema/lineFrequency" reader="*" writer="*"></lineFrequency>
+
+	<electricCurrentA type="/iotschema/electricCurrentA" reader="*" writer="*"></electricCurrentA>
+
+	<electricCurrentC type="/iotschema/electricCurrentC" reader="*" writer="*"></electricCurrentC>
+
+	<electricCurrentB type="/iotschema/electricCurrentB" reader="*" writer="*"></electricCurrentB>
+
+	<averageElectricCurrent type="/iotschema/averageElectricCurrent" reader="*" writer="*"></averageElectricCurrent>
+
+</ElectricCurrentMonitoring>

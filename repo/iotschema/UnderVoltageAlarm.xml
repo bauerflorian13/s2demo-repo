@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["Under", "Pattern", "Interaction", "Event", "UnderVoltageAlarm", "Voltage", "Alarm", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "Too low  voltage (e.g., a battery is charged or discharged with)."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<UnderVoltageAlarm type="/iotschema/Event,/iotschema/Class" reader="*" writer="*">
+
+</UnderVoltageAlarm>

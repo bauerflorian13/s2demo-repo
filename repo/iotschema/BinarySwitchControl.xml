@@ -1,0 +1,14 @@
+<!--TAGS_MODEL: ["Control", "Binary", "Capability", "Industry", "Switch", "Building", "Home", "BinarySwitchControl"]-->
+<!--DESCRIPTION_MODEL: "A general On/Off control capability"-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<BinarySwitchControl type="/iotschema/Capability,/iotschema/Class" reader="*" writer="*">
+
+	<turnOn type="/iotschema/turnOn" reader="*" writer="*"></turnOn>
+
+	<switchstatus type="/iotschema/switchstatus" reader="*" writer="*"></switchstatus>
+
+	<toggleAction type="/iotschema/toggleAction" reader="*" writer="*"></toggleAction>
+
+	<turnOff type="/iotschema/turnOff" reader="*" writer="*"></turnOff>
+
+</BinarySwitchControl>

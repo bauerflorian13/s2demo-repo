@@ -1,0 +1,1 @@
+{"name":"PhaseToPhaseVoltageAB","meta-info":{"TYPE":"Class"},"description":"\"The voltage between phases A and B (line-to-line voltages in a polyphase system).\"","tags":["Read-only","Pattern","Interaction","To","PhaseToPhaseVoltageAB","Phase","Observable","Property","Voltage","InteractionPattern"]}

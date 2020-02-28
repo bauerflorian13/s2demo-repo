@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["TemperatureUnit", "Unit", "Temperature"]-->
+<!--DESCRIPTION_MODEL: "An enumeration of temperature units."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<TemperatureUnit type="/iotschema/Enumeration,/iotschema/Class" reader="*" writer="*">
+
+</TemperatureUnit>

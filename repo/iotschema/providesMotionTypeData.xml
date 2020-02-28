@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Provides", "Pattern", "ProvidesMotionTypeData", "Interaction", "Data", "Property", "Type", "ProvidesOutputData", "Output", "Motion", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "A property that relates an Interaction Pattern with its output MotionTypeData."-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<providesMotionTypeData type="/iotschema/providesOutputData,/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/MotionTypeData" reader="*" writer="*"></expectedReturnType>
+
+</providesMotionTypeData>

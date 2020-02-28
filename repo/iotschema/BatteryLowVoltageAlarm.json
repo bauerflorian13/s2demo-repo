@@ -1,0 +1,1 @@
+{"types":["/iotschema/Event","/iotschema/Class"],"children":[],"reader":"*","name":"BatteryLowVoltageAlarm","description":"'Battery low voltage alarm warns of impending battery failure.'","restrictions":[],"writer":"*","metaInformation":{"TYPE":"Class"},"tags":["BatteryLowVoltageAlarm","Pattern","Battery","Low","Interaction","Event","Voltage","Alarm","InteractionPattern"]}

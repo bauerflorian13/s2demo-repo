@@ -1,0 +1,1 @@
+{"types":["/iotschema/Enumeration","/iotschema/Class"],"children":[],"reader":"*","name":"TimeUnit","description":"'An enumeration of time unit.'","restrictions":[],"writer":"*","metaInformation":{"TYPE":"Class"},"tags":["Time","Unit","TimeUnit"]}

@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Ambient", "Read-only", "Pattern", "Interaction", "Expected", "Observable", "Property", "ExpectedAmbientTemperature", "Temperature", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "The expected temperature of the surrounding environment (air, liquid etc.). "-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<ExpectedAmbientTemperature type="/iotschema/Temperature,/iotschema/Class" reader="*" writer=" ">
+
+	<providesTemperatureData type="/iotschema/providesTemperatureData" reader="*" writer="*"></providesTemperatureData>
+
+</ExpectedAmbientTemperature>

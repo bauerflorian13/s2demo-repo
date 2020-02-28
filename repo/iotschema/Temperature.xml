@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Read-only", "Pattern", "Interaction", "Observable", "Property", "Temperature", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "Temperature interaction property"-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<Temperature type="/iotschema/Class,/iotschema/Property" reader="*" writer=" ">
+
+	<providesTemperatureData type="/iotschema/providesTemperatureData" reader="*" writer="*"></providesTemperatureData>
+
+</Temperature>

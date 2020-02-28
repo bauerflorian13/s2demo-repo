@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Charge", "Pattern", "Interaction", "Unit", "Property", "Code", "Electric", "ElectricChargeUnitCode", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "A property that relates iot:electricChargeUnitCode with its unit."-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<electricChargeUnitCode type="/iotschema/unitCode,/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/ElectricChargeUnit" reader="*" writer="*"></expectedReturnType>
+
+</electricChargeUnitCode>

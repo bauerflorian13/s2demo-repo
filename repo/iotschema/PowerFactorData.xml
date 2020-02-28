@@ -1,0 +1,14 @@
+<!--TAGS_MODEL: ["PowerFactorData", "Power", "Data", "Factor"]-->
+<!--DESCRIPTION_MODEL: "Data for the power factor."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<PowerFactorData type="/iotschema/PropertyValue,/iotschema/Class" reader="*" writer="*">
+
+	<numberDataType type="/iotschema/numberDataType" reader="*" writer="*"></numberDataType>
+
+	<maxValue type="/iotschema/maxValue" reader="*" writer="*"></maxValue>
+
+	<minValue type="/iotschema/minValue" reader="*" writer="*"></minValue>
+
+	<powerFactorUnitCode type="/iotschema/powerFactorUnitCode" reader="*" writer="*"></powerFactorUnitCode>
+
+</PowerFactorData>

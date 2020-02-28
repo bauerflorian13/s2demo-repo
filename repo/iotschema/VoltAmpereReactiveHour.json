@@ -1,0 +1,1 @@
+{"types":["/iotschema/ReactiveEnergyUnit"],"children":[],"reader":"*","name":"VoltAmpereReactiveHour","description":"'The unit of reactive enregy.'","restrictions":[],"writer":"*","metaInformation":{"TYPE":"ReactiveEnergyUnit"},"tags":["ReactiveEnergyUnit","Volt-ampere-reactive-hour","Reactive","Energy","Unit"]}

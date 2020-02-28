@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Provides", "Pattern", "Interaction", "Data", "Property", "ProvidesOutputData", "Pressure", "ProvidesPressureData", "Output", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "A property that relates an Interaction Pattern with its output PressureData."-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<providesPressureData type="/iotschema/providesOutputData,/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/PressureData" reader="*" writer="*"></expectedReturnType>
+
+</providesPressureData>

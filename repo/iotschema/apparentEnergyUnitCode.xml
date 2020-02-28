@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Pattern", "Interaction", "Energy", "ApparentEnergyUnitCode", "Unit", "Property", "Code", "Apparent", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "A property that relates iot:apparentEnergyUnitCode with its unit."-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<apparentEnergyUnitCode type="/iotschema/unitCode,/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/ApparentEnergyUnit" reader="*" writer="*"></expectedReturnType>
+
+</apparentEnergyUnitCode>

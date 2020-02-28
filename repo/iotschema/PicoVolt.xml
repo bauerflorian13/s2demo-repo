@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["VoltageUnit", "Unit", "Voltage", "Picovolt"]-->
+<!--DESCRIPTION_MODEL: "The unit of voltage, expressed in a unit prefix meaning 'one trillionth'."-->
+<!--METAINFORMATION_MODEL: {REFERENCE="0112/2///62720#UAB363#001", TYPE=VoltageUnit}-->
+<PicoVolt type="/iotschema/VoltageUnit" reader="*" writer="*">
+
+</PicoVolt>

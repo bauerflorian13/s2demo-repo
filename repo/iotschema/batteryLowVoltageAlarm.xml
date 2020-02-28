@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["BatteryLowVoltageAlarm", "Pattern", "Provides", "Battery", "Low", "Interaction", "ProvidesInteractionPattern", "Property", "Voltage", "Alarm", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "An event that relates a capability with its BatteryLowVoltageAlarm interaction pattern."-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<batteryLowVoltageAlarm type="/iotschema/providesInteractionPattern,/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/BatteryLowVoltageAlarm" reader="*" writer="*"></expectedReturnType>
+
+</batteryLowVoltageAlarm>

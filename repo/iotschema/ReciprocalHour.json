@@ -1,0 +1,1 @@
+{"types":["/iotschema/CRateUnit"],"children":[],"reader":"*","name":"ReciprocalHour","description":"'Reciprocal of the unit hour'","restrictions":[],"writer":"*","metaInformation":{"REFERENCE":"\"0112/2///62720#UAA526#001\"","TYPE":"CRateUnit"},"tags":["Reciprocal-hour"]}

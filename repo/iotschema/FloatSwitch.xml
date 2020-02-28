@@ -1,0 +1,16 @@
+<!--TAGS_MODEL: ["FloatSwitch", "Float", "Capability", "Industry", "Switch", "LevelSwitch", "Level"]-->
+<!--DESCRIPTION_MODEL: "A capability of a float switch"-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<FloatSwitch type="/iotschema/FloatSwitch,/iotschema/LevelSwitch,/iotschema/Class" reader="*" writer="*">
+
+	<expectedPressure type="/iotschema/expectedPressure" reader="*" writer="*"></expectedPressure>
+
+	<overflowStatus type="/iotschema/overflowStatus" reader="*" writer="*"></overflowStatus>
+
+	<expectedDensity type="/iotschema/expectedDensity" reader="*" writer="*"></expectedDensity>
+
+	<expectedAmbientTemperature type="/iotschema/expectedAmbientTemperature" reader="*" writer="*"></expectedAmbientTemperature>
+
+	<expectedFloatImmersionDepth type="/iotschema/expectedFloatImmersionDepth" reader="*" writer="*"></expectedFloatImmersionDepth>
+
+</FloatSwitch>

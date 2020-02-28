@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["TemperatureUnit", "Celsius", "Unit", "Temperature"]-->
+<!--DESCRIPTION_MODEL: "unit of the temperature of which the scale is defined by two fixe-points, the temperatures of freezing and boiling point of water at normal pressure (air pressure of 1 013,25 hPa)"-->
+<!--METAINFORMATION_MODEL: {SOURCE="http://data.nasa.gov/qudt/owl/unit#DegreeCelsius", REFERENCE="0112/2///62720#UAA033#001", TYPE=TemperatureUnit}-->
+<Celsius type="/iotschema/TemperatureUnit" reader="*" writer="*">
+
+</Celsius>

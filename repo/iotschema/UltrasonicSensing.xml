@@ -1,0 +1,10 @@
+<!--TAGS_MODEL: ["Sensing", "Ultrasonic", "Capability", "Industry", "UltrasonicSensing"]-->
+<!--DESCRIPTION_MODEL: "A capability of an ultrasonic sensor"-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<UltrasonicSensing type="/iotschema/Capability,/iotschema/UltrasonicSensing,/iotschema/Class" reader="*" writer="*">
+
+	<currentLevel type="/iotschema/currentLevel" reader="*" writer="*"></currentLevel>
+
+	<expectedAmbientTemperature type="/iotschema/expectedAmbientTemperature" reader="*" writer="*"></expectedAmbientTemperature>
+
+</UltrasonicSensing>

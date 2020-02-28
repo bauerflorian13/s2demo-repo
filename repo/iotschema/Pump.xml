@@ -1,0 +1,18 @@
+<!--TAGS_MODEL: ["Capability", "Industry", "Pump"]-->
+<!--DESCRIPTION_MODEL: "A capability of a pump"-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<Pump type="/iotschema/Capability,/iotschema/Class,/iotschema/Pump" reader="*" writer="*">
+
+	<expectedPressure type="/iotschema/expectedPressure" reader="*" writer="*"></expectedPressure>
+
+	<turnOff type="/iotschema/turnOff" reader="*" writer="*"></turnOff>
+
+	<expectedFlowRate type="/iotschema/expectedFlowRate" reader="*" writer="*"></expectedFlowRate>
+
+	<operationStatus type="/iotschema/operationStatus" reader="*" writer="*"></operationStatus>
+
+	<expectedAmbientTemperature type="/iotschema/expectedAmbientTemperature" reader="*" writer="*"></expectedAmbientTemperature>
+
+	<turnOn type="/iotschema/turnOn" reader="*" writer="*"></turnOn>
+
+</Pump>

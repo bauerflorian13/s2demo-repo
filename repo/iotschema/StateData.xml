@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["StateData", "State", "Data"]-->
+<!--DESCRIPTION_MODEL: "State data"-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<StateData type="/iotschema/PropertyValue,/iotschema/Class,/iotschema/StateData" reader="*" writer="*">
+
+	<Boolean type="/iotschema/Boolean" reader="*" writer="*"></Boolean>
+
+</StateData>

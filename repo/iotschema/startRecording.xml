@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Pattern", "Provides", "Interaction", "Start", "ProvidesInteractionPattern", "Property", "Recording", "StartRecording", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "An action that relates a capability with its StartRecording interaction pattern."-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<startRecording type="/iotschema/providesInteractionPattern,/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/StartRecording" reader="*" writer="*"></expectedReturnType>
+
+</startRecording>

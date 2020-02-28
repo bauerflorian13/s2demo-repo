@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["ReactivePowerA", "Read-only", "Pattern", "Interaction", "Reactive", "Power", "Observable", "Property", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "The reactive power for phase A (there exist phases A, B, and C)."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<ReactivePowerA type="/iotschema/ReactivePowerA,/iotschema/Class,/iotschema/Property" reader="*" writer=" ">
+
+	<providesReactivePowerData type="/iotschema/providesReactivePowerData" reader="*" writer="*"></providesReactivePowerData>
+
+</ReactivePowerA>

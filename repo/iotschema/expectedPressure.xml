@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["ExpectedPressure", "Pattern", "Provides", "Interaction", "Expected", "ProvidesInteractionPattern", "Property", "Pressure", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "A property that relates a capability with its ExpectedPressure interaction pattern."-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<expectedPressure type="/iotschema/providesInteractionPattern,/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/ExpectedPressure" reader="*" writer="*"></expectedReturnType>
+
+</expectedPressure>

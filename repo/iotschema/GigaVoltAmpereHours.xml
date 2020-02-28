@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["Energy", "ApparentEnergyUnit", "Unit", "Gigavolt-ampere-hours", "Apparent"]-->
+<!--DESCRIPTION_MODEL: "The unit of the apparent enregy, expressed in giga (one billion) as a decimal unit prefix."-->
+<!--METAINFORMATION_MODEL: {TYPE=ApparentEnergyUnit}-->
+<GigaVoltAmpereHours type="/iotschema/ApparentEnergyUnit" reader="*" writer="*">
+
+</GigaVoltAmpereHours>

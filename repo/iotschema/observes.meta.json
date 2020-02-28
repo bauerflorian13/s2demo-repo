@@ -1,0 +1,1 @@
+{"name":"observes","meta-info":{"TYPE":"Property"},"description":"\"Relation between a Sensor and either a Property or an Event that it is capable of sensing.\"","tags":["Pattern","Interaction","Property","Observes","InteractionPattern"]}

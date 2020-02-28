@@ -1,0 +1,10 @@
+<!--TAGS_MODEL: ["NitrogenConcentrationData", "Data", "Concentration", "Nitrogen"]-->
+<!--DESCRIPTION_MODEL: "Nitrogen concentration data."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<NitrogenConcentrationData type="/iotschema/PropertyValue,/iotschema/Class,/iotschema/NitrogenConcentrationData" reader="*" writer="*">
+
+	<nitrogenConcentrationUnitCode type="/iotschema/nitrogenConcentrationUnitCode" reader="*" writer="*"></nitrogenConcentrationUnitCode>
+
+	<numberDataType type="/iotschema/numberDataType" reader="*" writer="*"></numberDataType>
+
+</NitrogenConcentrationData>

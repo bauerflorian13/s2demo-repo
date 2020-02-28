@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Pattern", "NumberDataType", "Interaction", "Number", "Data", "Property", "Type", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "The data with value type Number."-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<numberDataType type="/iotschema/propertyType,/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/Number" reader="*" writer="*"></expectedReturnType>
+
+</numberDataType>

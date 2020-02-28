@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Read-only", "Pattern", "CurrentLevel", "Interaction", "Current", "Observable", "Level", "Property", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "Current level property"-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<CurrentLevel type="/iotschema/Class,/iotschema/Property" reader="*" writer=" ">
+
+	<providesLevelData type="/iotschema/providesLevelData" reader="*" writer="*"></providesLevelData>
+
+</CurrentLevel>

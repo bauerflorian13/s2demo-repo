@@ -1,0 +1,14 @@
+<!--TAGS_MODEL: ["ReactivePowerData", "Reactive", "Power", "Data"]-->
+<!--DESCRIPTION_MODEL: "Data for the reactive power"-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<ReactivePowerData type="/iotschema/PropertyValue,/iotschema/Class" reader="*" writer="*">
+
+	<numberDataType type="/iotschema/numberDataType" reader="*" writer="*"></numberDataType>
+
+	<minValue type="/iotschema/minValue" reader="*" writer="*"></minValue>
+
+	<maxValue type="/iotschema/maxValue" reader="*" writer="*"></maxValue>
+
+	<reactivePowerUnitCode type="/iotschema/reactivePowerUnitCode" reader="*" writer="*"></reactivePowerUnitCode>
+
+</ReactivePowerData>

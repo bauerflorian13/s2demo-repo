@@ -1,0 +1,11 @@
+<PropertyValue type="/iotschema/PropertyValue" reader="*" writer="*">
+
+	<observedEvent type="/iotschema/observedEvent" reader="*" writer="*"></observedEvent>
+
+	<actsOnProperty type="/iotschema/actsOnProperty" reader="*" writer="*"></actsOnProperty>
+
+	<observedProperty type="/iotschema/observedProperty" reader="*" writer="*"></observedProperty>
+
+	<hasFeatureOfInterest type="/iotschema/hasFeatureOfInterest" reader="*" writer="*"></hasFeatureOfInterest>
+
+</PropertyValue>

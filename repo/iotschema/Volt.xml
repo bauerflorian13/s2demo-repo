@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["VoltageUnit", "Unit", "Volt", "Voltage"]-->
+<!--DESCRIPTION_MODEL: "The unit of voltage."-->
+<!--METAINFORMATION_MODEL: {SOURCE="http://www.qudt.org/qudt/owl/1.0.0/unit/Instances.html#Volt", REFERENCE="0112/2///62720#UAA296#001", TYPE=VoltageUnit}-->
+<Volt type="/iotschema/VoltageUnit" reader="*" writer="*">
+
+</Volt>

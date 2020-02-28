@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["VoltageUnit", "Unit", "Voltage", "Femtovolt"]-->
+<!--DESCRIPTION_MODEL: "The unit of voltage, expressed in a unit prefix meaning 'one 0.000000000000001'."-->
+<!--METAINFORMATION_MODEL: {REFERENCE="0112/2///62720#UAC770#001", TYPE=VoltageUnit}-->
+<FemtoVolt type="/iotschema/VoltageUnit" reader="*" writer="*">
+
+</FemtoVolt>

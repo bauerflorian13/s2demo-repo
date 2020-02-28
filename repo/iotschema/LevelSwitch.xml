@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["Capability", "Industry", "LevelSwitch", "Switch", "Level"]-->
+<!--DESCRIPTION_MODEL: "A capability of a level switch"-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<LevelSwitch type="/iotschema/Capability,/iotschema/Class" reader="*" writer="*">
+
+</LevelSwitch>

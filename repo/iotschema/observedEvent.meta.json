@@ -1,0 +1,1 @@
+{"name":"observedEvent","meta-info":{"TYPE":"Property"},"description":"\" Relation linking a PropertyValue to the Event that was observed. The Property or Event should be a property of the FeatureOfInterest (linked by hasFeatureOfInterest) of this PropertyValue. \"","tags":["Pattern","Interaction","ObservedEvent","Event","Property","Observed","InteractionPattern"]}

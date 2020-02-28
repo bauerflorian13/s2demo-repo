@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["Ampere-hour"]-->
+<!--DESCRIPTION_MODEL: "The unit of the electric charge (battery capacity)."-->
+<!--METAINFORMATION_MODEL: {REFERENCE="0112/2///62720#UAA102#001", SOURCE="http://www.qudt.org/qudt/owl/1.0.0/unit/Instances.html#AmpereHour", TYPE=ElectricChargeUnit}-->
+<AmpereHour type="/iotschema/ElectricChargeUnit" reader="*" writer="*">
+
+</AmpereHour>

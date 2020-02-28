@@ -1,0 +1,1 @@
+{"types":["/iotschema/ApparentEnergyUnit"],"children":[],"reader":"*","name":"MegaVoltAmpereHours","description":"'The unit of the apparent enregy, expressed in mega (one million) as a decimal unit prefix.'","restrictions":[],"writer":"*","metaInformation":{"TYPE":"ApparentEnergyUnit"},"tags":["Megavolt-ampere-hours","Energy","ApparentEnergyUnit","Unit","Apparent"]}

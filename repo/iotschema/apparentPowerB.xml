@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["ApparentPowerB", "Pattern", "Provides", "Interaction", "Power", "ProvidesInteractionPattern", "Property", "Apparent", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "A property that relates a capability with its ApparentPowerB interaction pattern."-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<apparentPowerB type="/iotschema/providesInteractionPattern,/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/ApparentPowerB" reader="*" writer="*"></expectedReturnType>
+
+</apparentPowerB>

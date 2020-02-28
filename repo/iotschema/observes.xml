@@ -1,0 +1,10 @@
+<!--TAGS_MODEL: ["Pattern", "Interaction", "Property", "Observes", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "Relation between a Sensor and either a Property or an Event that it is capable of sensing."-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<observes type="/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/Event" reader="*" writer="*"></expectedReturnType>
+
+	<expectedReturnType type="/iotschema/Property" reader="*" writer="*"></expectedReturnType>
+
+</observes>

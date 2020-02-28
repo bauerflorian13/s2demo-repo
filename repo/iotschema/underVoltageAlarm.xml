@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Under", "Pattern", "Provides", "Interaction", "ProvidesInteractionPattern", "Property", "UnderVoltageAlarm", "Voltage", "Alarm", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "An event that relates a capability with its UnderVoltageAlarm interaction pattern."-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<underVoltageAlarm type="/iotschema/providesInteractionPattern,/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/UnderVoltageAlarm" reader="*" writer="*"></expectedReturnType>
+
+</underVoltageAlarm>

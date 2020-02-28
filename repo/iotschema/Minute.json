@@ -1,0 +1,1 @@
+{"types":["/iotschema/TimeUnit"],"children":[],"reader":"*","name":"Minute","description":"'Minute Time Unit'","restrictions":[],"writer":"*","metaInformation":{"REFERENCE":"\"0112/2///62720#UAA842#001\"","SOURCE":"\"http://data.nasa.gov/qudt/owl/unit#MinuteTime\"","TYPE":"TimeUnit"},"tags":["Minute","Time","Unit","TimeUnit"]}

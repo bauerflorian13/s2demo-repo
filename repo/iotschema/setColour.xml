@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Pattern", "Provides", "Interaction", "Set", "ProvidesInteractionPattern", "Property", "Colour", "SetColour", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "An action that relates a capability with its SetColour interaction pattern."-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<setColour type="/iotschema/providesInteractionPattern,/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/SetColour" reader="*" writer="*"></expectedReturnType>
+
+</setColour>

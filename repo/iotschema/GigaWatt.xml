@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["Gigawatt", "Power", "ActivePowerUnit", "Active", "Unit"]-->
+<!--DESCRIPTION_MODEL: "The unit of the active power, expressed in giga (one billion) as a decimal unit prefix."-->
+<!--METAINFORMATION_MODEL: {REFERENCE="0112/2///62720#UAA154#001", TYPE=ActivePowerUnit}-->
+<GigaWatt type="/iotschema/ActivePowerUnit" reader="*" writer="*">
+
+</GigaWatt>

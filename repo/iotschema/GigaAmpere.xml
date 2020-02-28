@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["Gigaampere", "Current", "Unit", "Electric", "ElectricCurrentUnit"]-->
+<!--DESCRIPTION_MODEL: "The unit of electric current, expressed in a unit prefix meaning 'one billion'."-->
+<!--METAINFORMATION_MODEL: {TYPE=ElectricCurrentUnit}-->
+<GigaAmpere type="/iotschema/ElectricCurrentUnit" reader="*" writer="*">
+
+</GigaAmpere>

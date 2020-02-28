@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["ActiveEnergyUnit", "Kilowatt-hour", "Energy", "Active", "Unit"]-->
+<!--DESCRIPTION_MODEL: "The unit of the active enregy, expressed in kilo (one thousand) as a decimal unit prefix."-->
+<!--METAINFORMATION_MODEL: {SOURCE="http://www.qudt.org/qudt/owl/1.0.0/unit/Instances.html#Kilowatthour", REFERENCE="0112/2///62720#UAA584#001", TYPE=ActiveEnergyUnit}-->
+<KiloWattHour type="/iotschema/ActiveEnergyUnit" reader="*" writer="*">
+
+</KiloWattHour>

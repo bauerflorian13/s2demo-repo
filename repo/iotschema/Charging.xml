@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Writeable", "Pattern", "Interaction", "Charging", "Observable", "Property", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "The status of charging. 'True' indicates enabled, and ''False' indicates not enabled."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<Charging type="/iotschema/Class,/iotschema/Property" reader="*" writer="*">
+
+	<providesChargingStatusData type="/iotschema/providesChargingStatusData" reader="*" writer="*"></providesChargingStatusData>
+
+</Charging>

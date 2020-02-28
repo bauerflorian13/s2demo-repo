@@ -1,0 +1,1 @@
+{"types":["/iotschema/IlluminanceUnit"],"children":[],"reader":"*","name":"Lux","description":"'Illuminance Unit'","restrictions":[],"writer":"*","metaInformation":{"SOURCE":"\"http://qudt.org/vocab/unit#Lux\"","REFERENCE":"\"0112/2///62720#UAA723#001\"","TYPE":"IlluminanceUnit"},"tags":["Lux"]}

@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["Air", "GasInAirConcentrationUnit", "Concentration", "Unit", "Gas", "In", "Parts-per-million"]-->
+<!--DESCRIPTION_MODEL: "The unit of concentration of gas in the air, e.g., concentration of carbon dioxide (CO2) in ambient air."-->
+<!--METAINFORMATION_MODEL: {TYPE=GasInAirConcentrationUnit}-->
+<PartsPerMillion type="/iotschema/GasInAirConcentrationUnit" reader="*" writer="*">
+
+</PartsPerMillion>

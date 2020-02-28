@@ -1,0 +1,1 @@
+{"name":"SetPointBattery","meta-info":{"TYPE":"Class"},"description":"\"Charge or discharge a battery (an electric power storage system) either with C-rate or E-rate. When charging it's a positive number and when discharging it's a negative number.)\"","tags":["Point","Pattern","Battery","Interaction","Set","SetPointBattery","Action","InteractionPattern"]}

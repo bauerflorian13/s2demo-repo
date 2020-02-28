@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Pattern", "Interaction", "Property", "Writable", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "Property to specify writability of a property."-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<writable type="/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/Boolean" reader="*" writer="*"></expectedReturnType>
+
+</writable>

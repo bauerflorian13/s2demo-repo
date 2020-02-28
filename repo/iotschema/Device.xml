@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["Device"]-->
+<!--DESCRIPTION_MODEL: "Device Class"-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<Device type="/iotschema/Class,/iotschema/Thing" reader="*" writer="*">
+
+</Device>

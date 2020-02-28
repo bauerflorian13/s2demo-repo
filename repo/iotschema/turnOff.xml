@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Off", "Pattern", "Provides", "Interaction", "Turn", "ProvidesInteractionPattern", "Property", "TurnOff", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "An action that relates a capability with its TurnOff interaction pattern."-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<turnOff type="/iotschema/providesInteractionPattern,/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/TurnOff" reader="*" writer="*"></expectedReturnType>
+
+</turnOff>

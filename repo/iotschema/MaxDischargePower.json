@@ -1,0 +1,1 @@
+{"types":["/iotschema/Property","/iotschema/Class"],"children":[],"reader":"*","name":"MaxDischargePower","description":"'It is the discharging power limit.'","restrictions":[],"writer":" ","metaInformation":{"TYPE":"Class"},"tags":["Read-only","Pattern","Max","Interaction","MaxDischargePower","Power","Discharge","Observable","Property","InteractionPattern"]}

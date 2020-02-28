@@ -1,0 +1,10 @@
+<!--TAGS_MODEL: ["Writeable", "Pattern", "WindStrength", "Interaction", "Wind", "Strength", "Observable", "Property", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "Wind strength"-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<WindStrength type="/iotschema/Class,/iotschema/Property" reader="*" writer="*">
+
+	<acceptsWindData type="/iotschema/acceptsWindData" reader="*" writer="*"></acceptsWindData>
+
+	<providesWindData type="/iotschema/providesWindData" reader="*" writer="*"></providesWindData>
+
+</WindStrength>

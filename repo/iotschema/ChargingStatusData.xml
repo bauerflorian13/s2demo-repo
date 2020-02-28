@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["Status", "ChargingStatusData", "Data", "Charging"]-->
+<!--DESCRIPTION_MODEL: "Charging status data."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<ChargingStatusData type="/iotschema/PropertyValue,/iotschema/Class" reader="*" writer="*">
+
+</ChargingStatusData>

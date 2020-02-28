@@ -1,0 +1,1 @@
+{"types":["/iotschema/RunModeType"],"children":[],"reader":"*","name":"DryMode","description":"'Dry Mode'","restrictions":[],"writer":"*","metaInformation":{"TYPE":"RunModeType"},"tags":["Dry","RunModeType","Mode","Type","DryMode","Run"]}

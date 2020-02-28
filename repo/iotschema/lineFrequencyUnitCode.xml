@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Pattern", "Interaction", "Frequency", "LineFrequencyUnitCode", "Line", "Unit", "Property", "Code", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "A property that relates iot:lineFrequencyUnitCode with its unit."-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<lineFrequencyUnitCode type="/iotschema/unitCode,/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/LineFrequencyUnit" reader="*" writer="*"></expectedReturnType>
+
+</lineFrequencyUnitCode>

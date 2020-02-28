@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["VoltageUnit", "Unit", "Nanovolt", "Voltage"]-->
+<!--DESCRIPTION_MODEL: "The unit of voltage, expressed in a unit prefix meaning 'one billionth'."-->
+<!--METAINFORMATION_MODEL: {REFERENCE="0112/2///62720#UAC771#001", TYPE=VoltageUnit}-->
+<NanoVolt type="/iotschema/VoltageUnit" reader="*" writer="*">
+
+</NanoVolt>

@@ -1,0 +1,1 @@
+{"types":["/iotschema/Action","/iotschema/Class"],"children":[],"reader":"*","name":"TurnOff","description":"'Turn off a switch.'","restrictions":[],"writer":"*","metaInformation":{"TYPE":"Class"},"tags":["Off","Pattern","Interaction","Turn","Action","TurnOff","InteractionPattern"]}

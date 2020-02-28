@@ -1,0 +1,1 @@
+{"types":["/iotschema/Enumeration","/iotschema/Class"],"children":[],"reader":"*","name":"LevelUnit","description":"'An enumeration of level units.'","restrictions":[],"writer":"*","metaInformation":{"TYPE":"Class"},"tags":["LevelUnit","Level","Unit"]}

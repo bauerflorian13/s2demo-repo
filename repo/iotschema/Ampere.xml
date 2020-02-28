@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["Current", "Unit", "Ampere", "Electric", "ElectricCurrentUnit"]-->
+<!--DESCRIPTION_MODEL: "The unit of electric current."-->
+<!--METAINFORMATION_MODEL: {SOURCE="http://www.qudt.org/qudt/owl/1.0.0/unit/Instances.html#Ampere", REFERENCE="0112/2///62720#UAA101#001", TYPE=ElectricCurrentUnit}-->
+<Ampere type="/iotschema/ElectricCurrentUnit" reader="*" writer="*">
+
+</Ampere>

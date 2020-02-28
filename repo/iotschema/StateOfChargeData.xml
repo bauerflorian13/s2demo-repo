@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Charge", "StateOfChargeData", "State", "Data", "Of"]-->
+<!--DESCRIPTION_MODEL: "Battery state of charge."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<StateOfChargeData type="/iotschema/PropertyValue,/iotschema/Class" reader="*" writer="*">
+
+	<stateOfChargeUnitCode type="/iotschema/stateOfChargeUnitCode" reader="*" writer="*"></stateOfChargeUnitCode>
+
+</StateOfChargeData>

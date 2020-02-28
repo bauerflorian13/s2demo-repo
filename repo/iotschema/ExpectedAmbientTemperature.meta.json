@@ -1,0 +1,1 @@
+{"name":"ExpectedAmbientTemperature","meta-info":{"TYPE":"Class"},"description":"\"The expected temperature of the surrounding environment (air, liquid etc.). \"","tags":["Ambient","Read-only","Pattern","Interaction","Expected","Observable","Property","ExpectedAmbientTemperature","Temperature","InteractionPattern"]}

@@ -1,0 +1,10 @@
+<!--TAGS_MODEL: ["AcceptsInputData", "Pattern", "Input", "Interaction", "Accepts", "Data", "Property", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "Property for Input Data of an Interaction."-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<acceptsInputData type="/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/PropertyValueSpecification" reader="*" writer="*"></expectedReturnType>
+
+	<expectedReturnType type="/iotschema/PropertyValue" reader="*" writer="*"></expectedReturnType>
+
+</acceptsInputData>

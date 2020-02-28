@@ -1,0 +1,10 @@
+<!--TAGS_MODEL: ["Writeable", "RunMode", "Pattern", "Interaction", "Mode", "Observable", "Property", "Run", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "Run modes of an air conditioner"-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<RunMode type="/iotschema/Class,/iotschema/Property" reader="*" writer="*">
+
+	<acceptsRunModeData type="/iotschema/acceptsRunModeData" reader="*" writer="*"></acceptsRunModeData>
+
+	<providesRunModeData type="/iotschema/providesRunModeData" reader="*" writer="*"></providesRunModeData>
+
+</RunMode>

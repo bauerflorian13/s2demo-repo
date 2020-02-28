@@ -1,0 +1,1 @@
+{"name":"LowBattery","meta-info":{"TYPE":"Class"},"description":"\"Indication that the battery is in a low state of charge.\"","tags":["Read-only","Pattern","Battery","Low","Interaction","LowBattery","Observable","Property","InteractionPattern"]}

@@ -1,0 +1,14 @@
+<!--TAGS_MODEL: ["DensityData", "Data", "Density"]-->
+<!--DESCRIPTION_MODEL: " Density data"-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<DensityData type="/iotschema/DensityData,/iotschema/PropertyValue,/iotschema/Class" reader="*" writer="*">
+
+	<maxValue type="/iotschema/maxValue" reader="*" writer="*"></maxValue>
+
+	<minValue type="/iotschema/minValue" reader="*" writer="*"></minValue>
+
+	<densitydata type="/iotschema/densitydata" reader="*" writer="*"></densitydata>
+
+	<numberDataType type="/iotschema/numberDataType" reader="*" writer="*"></numberDataType>
+
+</DensityData>

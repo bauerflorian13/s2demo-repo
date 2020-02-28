@@ -1,0 +1,12 @@
+<!--TAGS_MODEL: ["Data", "BColourData", "Colour"]-->
+<!--DESCRIPTION_MODEL: "Blue component of the RGB colour data"-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<BColourData type="/iotschema/PropertyValue,/iotschema/Class" reader="*" writer="*">
+
+	<maxValue type="/iotschema/maxValue" reader="*" writer="*"></maxValue>
+
+	<minValue type="/iotschema/minValue" reader="*" writer="*"></minValue>
+
+	<numberDataType type="/iotschema/numberDataType" reader="*" writer="*"></numberDataType>
+
+</BColourData>

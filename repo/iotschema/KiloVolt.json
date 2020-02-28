@@ -1,0 +1,1 @@
+{"types":["/iotschema/VoltageUnit"],"children":[],"reader":"*","name":"KiloVolt","description":"'The unit of voltage, expressed in a unit prefix meaning 'one thousand'.'","restrictions":[],"writer":"*","metaInformation":{"REFERENCE":"\"0112/2///62720#UAA580#001\"","TYPE":"VoltageUnit"},"tags":["Kilovolt","VoltageUnit","Unit","Voltage"]}

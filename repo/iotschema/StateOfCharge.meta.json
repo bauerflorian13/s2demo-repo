@@ -1,0 +1,1 @@
+{"name":"StateOfCharge","meta-info":{"TYPE":"Class"},"description":"\"The rounded percentage of the current charging level of a battery in the range of [0, 100].\"","tags":["Charge","Read-only","Pattern","Interaction","State","StateOfCharge","Of","Observable","Property","InteractionPattern"]}

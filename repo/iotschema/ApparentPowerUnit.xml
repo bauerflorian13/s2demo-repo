@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["ApparentPowerUnit", "Power", "Unit", "Apparent"]-->
+<!--DESCRIPTION_MODEL: "An enumeration of apparent power units."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<ApparentPowerUnit type="/iotschema/Enumeration,/iotschema/Class" reader="*" writer="*">
+
+</ApparentPowerUnit>

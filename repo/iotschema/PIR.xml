@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["MotionSensorType", "Type", "Sensor", "PIR", "Motion"]-->
+<!--DESCRIPTION_MODEL: "Passive infrared sensor"-->
+<!--METAINFORMATION_MODEL: {TYPE=MotionSensorType}-->
+<PIR type="/iotschema/MotionSensorType" reader="*" writer="*">
+
+</PIR>

@@ -1,0 +1,10 @@
+<!--TAGS_MODEL: ["Point", "Pattern", "Battery", "Interaction", "Set", "SetPointBattery", "Action", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "Charge or discharge a battery (an electric power storage system) either with C-rate or E-rate. When charging it's a positive number and when discharging it's a negative number.)"-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<SetPointBattery type="/iotschema/Action,/iotschema/Class" reader="*" writer="*">
+
+	<acceptsERateData type="/iotschema/acceptsERateData" reader="*" writer="*"></acceptsERateData>
+
+	<acceptsCRateData type="/iotschema/acceptsCRateData" reader="*" writer="*"></acceptsCRateData>
+
+</SetPointBattery>

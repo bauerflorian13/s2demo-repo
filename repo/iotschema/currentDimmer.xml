@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Dimmer", "Pattern", "Provides", "Interaction", "Current", "ProvidesInteractionPattern", "Property", "CurrentDimmer", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "A property that relates a capability with its CurrentDimmer interaction pattern."-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<currentDimmer type="/iotschema/providesInteractionPattern,/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/CurrentDimmer" reader="*" writer="*"></expectedReturnType>
+
+</currentDimmer>

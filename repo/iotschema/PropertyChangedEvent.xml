@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["PropertyChangedEvent", "Pattern", "Changed", "Interaction", "Property", "Event", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "Specification of an event occurring when some property changes."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<PropertyChangedEvent type="/iotschema/Event,/iotschema/Class" reader="*" writer="*">
+
+</PropertyChangedEvent>

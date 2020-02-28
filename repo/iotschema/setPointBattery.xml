@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Point", "Pattern", "Provides", "Battery", "Interaction", "Set", "SetPointBattery", "ProvidesInteractionPattern", "Property", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "An action that relates a capability with its SetPointBattery interaction pattern."-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<setPointBattery type="/iotschema/providesInteractionPattern,/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/SetPointBattery" reader="*" writer="*"></expectedReturnType>
+
+</setPointBattery>

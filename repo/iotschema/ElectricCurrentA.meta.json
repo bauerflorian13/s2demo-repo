@@ -1,0 +1,1 @@
+{"name":"ElectricCurrentA","meta-info":{"TYPE":"Class"},"description":"\"The current which flows through the phase (line) A (there exist phases A, B, and C).\"","tags":["ElectricCurrentA","Read-only","Pattern","Interaction","Current","Observable","Property","Electric","InteractionPattern"]}

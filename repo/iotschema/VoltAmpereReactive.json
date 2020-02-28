@@ -1,0 +1,1 @@
+{"types":["/iotschema/ReactivePowerUnit"],"children":[],"reader":"*","name":"VoltAmpereReactive","description":"'The unit of reactive power.'","restrictions":[],"writer":"*","metaInformation":{"REFERENCE":"\"0112/2///62720#UAB023#001\"","TYPE":"ReactivePowerUnit"},"tags":["Reactive","Power","ReactivePowerUnit","Volt-ampere-reactive","Unit"]}

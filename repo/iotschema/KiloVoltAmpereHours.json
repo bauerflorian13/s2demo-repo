@@ -1,0 +1,1 @@
+{"types":["/iotschema/ApparentEnergyUnit"],"children":[],"reader":"*","name":"KiloVoltAmpereHours","description":"'The unit of the apparent enregy, expressed in kilo (one thousand) as a decimal unit prefix.'","restrictions":[],"writer":"*","metaInformation":{"TYPE":"ApparentEnergyUnit"},"tags":["Kilovolt-ampere-hours","Energy","ApparentEnergyUnit","Unit","Apparent"]}

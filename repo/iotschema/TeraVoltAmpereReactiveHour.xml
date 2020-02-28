@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["ReactiveEnergyUnit", "Reactive", "Energy", "Unit", "Teravolt-ampere-reactive-hour"]-->
+<!--DESCRIPTION_MODEL: "The unit of the reactive enregy, expressed in giga (one trillion) as a decimal unit prefix."-->
+<!--METAINFORMATION_MODEL: {TYPE=ReactiveEnergyUnit}-->
+<TeraVoltAmpereReactiveHour type="/iotschema/ReactiveEnergyUnit" reader="*" writer="*">
+
+</TeraVoltAmpereReactiveHour>

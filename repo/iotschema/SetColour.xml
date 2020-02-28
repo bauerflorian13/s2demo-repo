@@ -1,0 +1,12 @@
+<!--TAGS_MODEL: ["Pattern", "Interaction", "Set", "Action", "Colour", "SetColour", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "RGB colour"-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<SetColour type="/iotschema/Action,/iotschema/SetColour,/iotschema/Class" reader="*" writer="*">
+
+	<acceptsBColourData type="/iotschema/acceptsBColourData" reader="*" writer="*"></acceptsBColourData>
+
+	<acceptsGColourData type="/iotschema/acceptsGColourData" reader="*" writer="*"></acceptsGColourData>
+
+	<acceptsRColourData type="/iotschema/acceptsRColourData" reader="*" writer="*"></acceptsRColourData>
+
+</SetColour>

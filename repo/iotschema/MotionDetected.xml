@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Pattern", "Interaction", "Detected", "Event", "MotionDetected", "Motion", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "Detects motion"-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<MotionDetected type="/iotschema/Event,/iotschema/Class" reader="*" writer="*">
+
+	<providesStateData type="/iotschema/providesStateData" reader="*" writer="*"></providesStateData>
+
+</MotionDetected>

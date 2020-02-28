@@ -1,0 +1,1 @@
+{"types":["/iotschema/Enumeration","/iotschema/Class"],"children":[],"reader":"*","name":"FlowRateUnit","description":"'An enumeration of flow rate units.'","restrictions":[],"writer":"*","metaInformation":{"TYPE":"Class"},"tags":["Flow","Rate","Unit","FlowRateUnit"]}

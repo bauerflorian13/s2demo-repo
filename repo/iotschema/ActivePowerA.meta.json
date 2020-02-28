@@ -1,0 +1,1 @@
+{"name":"ActivePowerA","meta-info":{"TYPE":"Class"},"description":"\"The active power for phase A (there exist phases A, B, and C).\"","tags":["Read-only","Pattern","Interaction","Power","ActivePowerA","Observable","Active","Property","InteractionPattern"]}

@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["Domain", "Mobility"]-->
+<!--DESCRIPTION_MODEL: "Mobility Domain"-->
+<!--METAINFORMATION_MODEL: {TYPE=Domain}-->
+<Mobility type="/iotschema/Domain" reader="*" writer="*">
+
+</Mobility>

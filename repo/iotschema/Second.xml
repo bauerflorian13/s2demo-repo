@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["Second", "Time", "Unit", "TimeUnit"]-->
+<!--DESCRIPTION_MODEL: "Second Time Unit"-->
+<!--METAINFORMATION_MODEL: {REFERENCE="0112/2///62720#UAA972#001", SOURCE="http://data.nasa.gov/qudt/owl/unit#SecondTime", TYPE=TimeUnit}-->
+<Second type="/iotschema/TimeUnit" reader="*" writer="*">
+
+</Second>

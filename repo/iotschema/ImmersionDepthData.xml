@@ -1,0 +1,14 @@
+<!--TAGS_MODEL: ["ImmersionDepthData", "Depth", "Immersion", "Data"]-->
+<!--DESCRIPTION_MODEL: " Liquid immersion depth data"-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<ImmersionDepthData type="/iotschema/PropertyValue,/iotschema/Class" reader="*" writer="*">
+
+	<numberDataType type="/iotschema/numberDataType" reader="*" writer="*"></numberDataType>
+
+	<minValue type="/iotschema/minValue" reader="*" writer="*"></minValue>
+
+	<immersionDepthUnitCode type="/iotschema/immersionDepthUnitCode" reader="*" writer="*"></immersionDepthUnitCode>
+
+	<maxValue type="/iotschema/maxValue" reader="*" writer="*"></maxValue>
+
+</ImmersionDepthData>

@@ -1,0 +1,10 @@
+<!--TAGS_MODEL: ["Writeable", "Pattern", "CountDown", "Interaction", "Down", "Observable", "Property", "Count", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "Count-down or Timer"-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<CountDown type="/iotschema/Class,/iotschema/CountDown,/iotschema/Property" reader="*" writer="*">
+
+	<acceptsTimeData type="/iotschema/acceptsTimeData" reader="*" writer="*"></acceptsTimeData>
+
+	<providesTimeData type="/iotschema/providesTimeData" reader="*" writer="*"></providesTimeData>
+
+</CountDown>

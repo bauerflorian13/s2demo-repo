@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["Reactive", "Power", "ReactivePowerUnit", "Unit"]-->
+<!--DESCRIPTION_MODEL: "An enumeration of reactive power units."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<ReactivePowerUnit type="/iotschema/Enumeration,/iotschema/Class" reader="*" writer="*">
+
+</ReactivePowerUnit>

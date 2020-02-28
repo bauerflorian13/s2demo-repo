@@ -1,0 +1,10 @@
+<!--TAGS_MODEL: ["ForProperty", "Pattern", "Interaction", "Property", "For", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: " Relation between an Actuator and either a Property or an Action that it is capable of actuation. "-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<forProperty type="/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/Action" reader="*" writer="*"></expectedReturnType>
+
+	<expectedReturnType type="/iotschema/Property" reader="*" writer="*"></expectedReturnType>
+
+</forProperty>

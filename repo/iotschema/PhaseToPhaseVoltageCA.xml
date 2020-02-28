@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["PhaseToPhaseVoltageCA", "Read-only", "Pattern", "Interaction", "To", "Phase", "Observable", "Property", "Voltage", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "The voltage between phases C and A (line-to-line voltages in a polyphase system)."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<PhaseToPhaseVoltageCA type="/iotschema/Class,/iotschema/Property" reader="*" writer=" ">
+
+	<providesVoltageData type="/iotschema/providesVoltageData" reader="*" writer="*"></providesVoltageData>
+
+</PhaseToPhaseVoltageCA>

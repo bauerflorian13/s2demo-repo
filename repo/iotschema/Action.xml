@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Pattern", "Interaction", "Action", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "Action subclass of InteractionPattern"-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<Action type="/iotschema/InteractionPattern,/iotschema/Class" reader="*" writer="*">
+
+	<isActionOf type="/iotschema/isActionOf" reader="*" writer="*"></isActionOf>
+
+</Action>

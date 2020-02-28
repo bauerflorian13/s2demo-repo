@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Dimmer", "Pattern", "Interaction", "Set", "Action", "SetDimmer", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "Set quantized representation for brightness (e.g., in the range 0-100)"-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<SetDimmer type="/iotschema/Action,/iotschema/Class" reader="*" writer="*">
+
+	<acceptsDimmerData type="/iotschema/acceptsDimmerData" reader="*" writer="*"></acceptsDimmerData>
+
+</SetDimmer>

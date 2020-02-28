@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Data", "MotionTypeData", "Type", "Motion"]-->
+<!--DESCRIPTION_MODEL: "Motion types"-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<MotionTypeData type="/iotschema/PropertyValue,/iotschema/Class" reader="*" writer="*">
+
+	<motionSensorType type="/iotschema/motionSensorType" reader="*" writer="*"></motionSensorType>
+
+</MotionTypeData>

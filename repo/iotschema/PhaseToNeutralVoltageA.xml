@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Read-only", "Pattern", "Interaction", "To", "Phase", "Observable", "PhaseToNeutralVoltageA", "Property", "Neutral", "Voltage", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "The voltage between the phase (line) A and neutral (there exist phases A, B, and C)."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<PhaseToNeutralVoltageA type="/iotschema/Class,/iotschema/Property" reader="*" writer=" ">
+
+	<providesVoltageData type="/iotschema/providesVoltageData" reader="*" writer="*"></providesVoltageData>
+
+</PhaseToNeutralVoltageA>

@@ -1,0 +1,1 @@
+{"types":["/iotschema/Event","/iotschema/Class"],"children":[],"reader":"*","name":"OverPressureAlarm","description":"'Too high pressure.'","restrictions":[],"writer":"*","metaInformation":{"TYPE":"Class"},"tags":["Pattern","Interaction","OverPressureAlarm","Over","Event","Pressure","Alarm","InteractionPattern"]}

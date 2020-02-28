@@ -1,0 +1,12 @@
+<!--TAGS_MODEL: ["Pattern", "Interaction", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "General Interaction Pattern Class"-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<InteractionPattern type="/iotschema/InteractionPattern,/iotschema/Class" reader="*" writer="*">
+
+	<capability type="/iotschema/capability" reader="*" writer="*"></capability>
+
+	<providesOutputData type="/iotschema/providesOutputData" reader="*" writer="*"></providesOutputData>
+
+	<acceptsInputData type="/iotschema/acceptsInputData" reader="*" writer="*"></acceptsInputData>
+
+</InteractionPattern>

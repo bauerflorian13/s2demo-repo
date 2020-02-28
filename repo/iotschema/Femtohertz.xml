@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["LineFrequencyUnit", "Frequency", "Femtohertz", "Line", "Unit"]-->
+<!--DESCRIPTION_MODEL: "The unit of line frequency, expressed in a unit prefix meaning 'one 0.000000000000001'."-->
+<!--METAINFORMATION_MODEL: {TYPE=LineFrequencyUnit}-->
+<Femtohertz type="/iotschema/LineFrequencyUnit" reader="*" writer="*">
+
+</Femtohertz>

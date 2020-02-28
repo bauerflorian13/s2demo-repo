@@ -1,0 +1,1 @@
+{"types":["/iotschema/ElectricCurrentUnit"],"children":[],"reader":"*","name":"GigaAmpere","description":"'The unit of electric current, expressed in a unit prefix meaning 'one billion'.'","restrictions":[],"writer":"*","metaInformation":{"TYPE":"ElectricCurrentUnit"},"tags":["Gigaampere","Current","Unit","Electric","ElectricCurrentUnit"]}

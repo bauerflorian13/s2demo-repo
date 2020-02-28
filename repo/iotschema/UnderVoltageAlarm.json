@@ -1,0 +1,1 @@
+{"types":["/iotschema/Event","/iotschema/Class"],"children":[],"reader":"*","name":"UnderVoltageAlarm","description":"'Too low  voltage (e.g., a battery is charged or discharged with).'","restrictions":[],"writer":"*","metaInformation":{"TYPE":"Class"},"tags":["Under","Pattern","Interaction","Event","UnderVoltageAlarm","Voltage","Alarm","InteractionPattern"]}

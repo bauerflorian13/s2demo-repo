@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["BatteryLowVoltageAlarm", "Pattern", "Battery", "Low", "Interaction", "Event", "Voltage", "Alarm", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "Battery low voltage alarm warns of impending battery failure."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<BatteryLowVoltageAlarm type="/iotschema/Event,/iotschema/Class" reader="*" writer="*">
+
+</BatteryLowVoltageAlarm>

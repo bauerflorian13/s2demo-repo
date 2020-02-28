@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Writeable", "Pattern", "Interaction", "TargetHumidity", "Observable", "Property", "Humidity", "Target", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "Desired value for Humidity (e.g., in the range 0-100)"-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<TargetHumidity type="/iotschema/Class,/iotschema/Property" reader="*" writer="*">
+
+	<acceptsHumidityData type="/iotschema/acceptsHumidityData" reader="*" writer="*"></acceptsHumidityData>
+
+</TargetHumidity>

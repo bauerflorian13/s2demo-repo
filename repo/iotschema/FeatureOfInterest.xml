@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["Feature", "FeatureOfInterest", "Of", "Interest"]-->
+<!--DESCRIPTION_MODEL: "Feature Of Interest - The thing whose property is being estimated or calculated in the course of an Observation, or whose property is being manipulated by an Actuator. "-->
+<!--METAINFORMATION_MODEL: {SOURCE="http://www.w3.org/ns/sosa/FeatureOfInterest", TYPE=Class}-->
+<FeatureOfInterest type="/iotschema/Class" reader="*" writer="*">
+
+</FeatureOfInterest>

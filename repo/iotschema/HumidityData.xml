@@ -1,0 +1,10 @@
+<!--TAGS_MODEL: ["Data", "HumidityData", "Humidity"]-->
+<!--DESCRIPTION_MODEL: " Humidity data"-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<HumidityData type="/iotschema/PropertyValue,/iotschema/Class" reader="*" writer="*">
+
+	<numberDataType type="/iotschema/numberDataType" reader="*" writer="*"></numberDataType>
+
+	<humidityUnitCode type="/iotschema/humidityUnitCode" reader="*" writer="*"></humidityUnitCode>
+
+</HumidityData>

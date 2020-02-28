@@ -1,0 +1,10 @@
+<!--TAGS_MODEL: ["Control", "Capability", "Building", "MotionControl", "Home", "Motion"]-->
+<!--DESCRIPTION_MODEL: "Presence (motion) sensing capability"-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<MotionControl type="/iotschema/Capability,/iotschema/MotionControl,/iotschema/Class" reader="*" writer="*">
+
+	<motionDetected type="/iotschema/motionDetected" reader="*" writer="*"></motionDetected>
+
+	<motionType type="/iotschema/motionType" reader="*" writer="*"></motionType>
+
+</MotionControl>

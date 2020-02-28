@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Writeable", "Pattern", "Interaction", "ApparentEnergy", "Energy", "Observable", "Property", "Apparent", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "The electric energy derived from apparent power over a period of time."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<ApparentEnergy type="/iotschema/Class,/iotschema/Property" reader="*" writer="*">
+
+	<providesApparentEnergyData type="/iotschema/providesApparentEnergyData" reader="*" writer="*"></providesApparentEnergyData>
+
+</ApparentEnergy>

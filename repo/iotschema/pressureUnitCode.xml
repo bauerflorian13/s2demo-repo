@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Pattern", "PressureUnitCode", "Interaction", "Unit", "Property", "Code", "Pressure", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "A property that relates iot:pressureUnitCode with its unit."-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<pressureUnitCode type="/iotschema/unitCode,/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/PressureUnit" reader="*" writer="*"></expectedReturnType>
+
+</pressureUnitCode>

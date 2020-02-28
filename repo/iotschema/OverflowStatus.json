@@ -1,0 +1,1 @@
+{"types":["/iotschema/Property","/iotschema/Class"],"children":[],"reader":"*","name":"OverflowStatus","description":"'Overflow status'","restrictions":[],"writer":" ","metaInformation":{"TYPE":"Class"},"tags":["Read-only","Pattern","Status","Interaction","Observable","OverflowStatus","Overflow","Property","InteractionPattern"]}

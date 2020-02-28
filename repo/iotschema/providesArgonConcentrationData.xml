@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Provides", "Pattern", "Interaction", "Data", "Concentration", "Argon", "Property", "ProvidesArgonConcentrationData", "ProvidesOutputData", "Output", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "A property that relates an Interaction Pattern with its output ArgonConcentrationData."-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<providesArgonConcentrationData type="/iotschema/providesOutputData,/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/ArgonConcentrationData" reader="*" writer="*"></expectedReturnType>
+
+</providesArgonConcentrationData>

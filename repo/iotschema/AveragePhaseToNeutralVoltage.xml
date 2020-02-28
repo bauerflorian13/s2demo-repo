@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Read-only", "AveragePhaseToNeutralVoltage", "Pattern", "Interaction", "To", "Average", "Phase", "Observable", "Property", "Neutral", "Voltage", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "The average voltage between phase (line) and neutral."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<AveragePhaseToNeutralVoltage type="/iotschema/Class,/iotschema/Property" reader="*" writer=" ">
+
+	<providesVoltageData type="/iotschema/providesVoltageData" reader="*" writer="*"></providesVoltageData>
+
+</AveragePhaseToNeutralVoltage>

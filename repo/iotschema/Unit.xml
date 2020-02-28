@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Unit"]-->
+<!--DESCRIPTION_MODEL: "Unit of measurement"-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<Unit type="/iotschema/Class" reader="*" writer="*">
+
+	<reference type="/iotschema/reference" reader="*" writer="*"></reference>
+
+</Unit>

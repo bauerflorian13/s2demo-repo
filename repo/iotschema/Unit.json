@@ -1,0 +1,1 @@
+{"types":["/iotschema/Class"],"children":[{"types":["/iotschema/reference"],"reader":"*","name":"reference","description":"","restrictions":[],"writer":"*","metaInformation":{},"tags":[]}],"reader":"*","name":"Unit","description":"'Unit of measurement'","restrictions":[],"writer":"*","metaInformation":{"TYPE":"Class"},"tags":["Unit"]}

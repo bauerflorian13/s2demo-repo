@@ -1,0 +1,14 @@
+<!--TAGS_MODEL: ["Data", "TemperatureData", "Temperature"]-->
+<!--DESCRIPTION_MODEL: " Temperature data"-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<TemperatureData type="/iotschema/PropertyValue,/iotschema/Class" reader="*" writer="*">
+
+	<numberDataType type="/iotschema/numberDataType" reader="*" writer="*"></numberDataType>
+
+	<temperatureUnitCode type="/iotschema/temperatureUnitCode" reader="*" writer="*"></temperatureUnitCode>
+
+	<maxValue type="/iotschema/maxValue" reader="*" writer="*"></maxValue>
+
+	<minValue type="/iotschema/minValue" reader="*" writer="*"></minValue>
+
+</TemperatureData>

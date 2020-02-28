@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["TimeData", "Time", "Data"]-->
+<!--DESCRIPTION_MODEL: "Time data"-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<TimeData type="/iotschema/PropertyValue,/iotschema/Class" reader="*" writer="*">
+
+	<Number type="/iotschema/Number" reader="*" writer="*"></Number>
+
+</TimeData>

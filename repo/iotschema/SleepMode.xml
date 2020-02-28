@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["SleepMode", "RunModeType", "Mode", "Sleep", "Type", "Run"]-->
+<!--DESCRIPTION_MODEL: "Sleep Mode"-->
+<!--METAINFORMATION_MODEL: {TYPE=RunModeType}-->
+<SleepMode type="/iotschema/RunModeType" reader="*" writer="*">
+
+</SleepMode>

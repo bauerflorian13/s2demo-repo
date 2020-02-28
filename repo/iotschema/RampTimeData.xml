@@ -1,0 +1,12 @@
+<!--TAGS_MODEL: ["Time", "Data", "Ramp", "RampTimeData"]-->
+<!--DESCRIPTION_MODEL: "Ramp time data"-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<RampTimeData type="/iotschema/PropertyValue,/iotschema/Class,/iotschema/RampTimeData" reader="*" writer="*">
+
+	<minValue type="/iotschema/minValue" reader="*" writer="*"></minValue>
+
+	<maxValue type="/iotschema/maxValue" reader="*" writer="*"></maxValue>
+
+	<numberDataType type="/iotschema/numberDataType" reader="*" writer="*"></numberDataType>
+
+</RampTimeData>

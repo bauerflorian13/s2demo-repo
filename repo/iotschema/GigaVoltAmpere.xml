@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["ApparentPowerUnit", "Power", "Gigavolt-ampere", "Unit", "Apparent"]-->
+<!--DESCRIPTION_MODEL: "The unit of the apparent power, expressed in giga (one billion) as a decimal unit prefix."-->
+<!--METAINFORMATION_MODEL: {REFERENCE="0112/2///62720#UAB534#001", TYPE=ApparentPowerUnit}-->
+<GigaVoltAmpere type="/iotschema/ApparentPowerUnit" reader="*" writer="*">
+
+</GigaVoltAmpere>

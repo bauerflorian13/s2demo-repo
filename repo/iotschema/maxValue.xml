@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Pattern", "Max", "Interaction", "Property", "MaxValue", "Value", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "The upper value of some characteristic or property."-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<maxValue type="/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/Number" reader="*" writer="*"></expectedReturnType>
+
+</maxValue>

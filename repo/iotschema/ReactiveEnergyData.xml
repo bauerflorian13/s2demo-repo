@@ -1,0 +1,10 @@
+<!--TAGS_MODEL: ["ReactiveEnergyData", "Reactive", "Data", "Energy"]-->
+<!--DESCRIPTION_MODEL: "Reactive energy data."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<ReactiveEnergyData type="/iotschema/PropertyValue,/iotschema/Class" reader="*" writer="*">
+
+	<reactiveEnergyUnitCode type="/iotschema/reactiveEnergyUnitCode" reader="*" writer="*"></reactiveEnergyUnitCode>
+
+	<numberDataType type="/iotschema/numberDataType" reader="*" writer="*"></numberDataType>
+
+</ReactiveEnergyData>

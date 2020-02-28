@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["Reactive", "Power", "ReactivePowerUnit", "Volt-ampere-reactive", "Unit"]-->
+<!--DESCRIPTION_MODEL: "The unit of reactive power."-->
+<!--METAINFORMATION_MODEL: {REFERENCE="0112/2///62720#UAB023#001", TYPE=ReactivePowerUnit}-->
+<VoltAmpereReactive type="/iotschema/ReactivePowerUnit" reader="*" writer="*">
+
+</VoltAmpereReactive>

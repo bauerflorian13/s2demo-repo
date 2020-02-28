@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["Unit", "Density", "DensityUnit"]-->
+<!--DESCRIPTION_MODEL: "An enumeration of density units."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<DensityUnit type="/iotschema/Enumeration,/iotschema/Class" reader="*" writer="*">
+
+</DensityUnit>

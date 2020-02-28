@@ -1,0 +1,1 @@
+{"types":["/iotschema/Enumeration","/iotschema/Class"],"children":[],"reader":"*","name":"TemperatureUnit","description":"'An enumeration of temperature units.'","restrictions":[],"writer":"*","metaInformation":{"TYPE":"Class"},"tags":["TemperatureUnit","Unit","Temperature"]}

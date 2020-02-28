@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Read-only", "Pattern", "Interaction", "Power", "PowerFactorC", "Observable", "Factor", "Property", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "The power factor for phase C (there exist phases A, B, and C)."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<PowerFactorC type="/iotschema/Class,/iotschema/Property" reader="*" writer=" ">
+
+	<providesPowerFactorData type="/iotschema/providesPowerFactorData" reader="*" writer="*"></providesPowerFactorData>
+
+</PowerFactorC>

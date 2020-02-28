@@ -1,0 +1,10 @@
+<!--TAGS_MODEL: ["Data", "Energy", "ApparentEnergyData", "Apparent"]-->
+<!--DESCRIPTION_MODEL: "Apparent energy data."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<ApparentEnergyData type="/iotschema/PropertyValue,/iotschema/Class" reader="*" writer="*">
+
+	<apparentEnergyUnitCode type="/iotschema/apparentEnergyUnitCode" reader="*" writer="*"></apparentEnergyUnitCode>
+
+	<numberDataType type="/iotschema/numberDataType" reader="*" writer="*"></numberDataType>
+
+</ApparentEnergyData>

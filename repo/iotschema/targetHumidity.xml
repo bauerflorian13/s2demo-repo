@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Pattern", "Provides", "Interaction", "TargetHumidity", "ProvidesInteractionPattern", "Property", "Humidity", "Target", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "A property that relates a capability with its TargetHumidity interaction pattern."-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<targetHumidity type="/iotschema/providesInteractionPattern,/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/TargetHumidity" reader="*" writer="*"></expectedReturnType>
+
+</targetHumidity>

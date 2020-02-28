@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Read-only", "Pattern", "Dioxide", "Interaction", "Carbon", "Concentration", "Observable", "Property", "CarbonDioxideConcentration", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "Concentration of carbon dioxide (CO2) in ambient air."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<CarbonDioxideConcentration type="/iotschema/Class,/iotschema/Property" reader="*" writer=" ">
+
+	<providesCarbonDioxideConcentrationData type="/iotschema/providesCarbonDioxideConcentrationData" reader="*" writer="*"></providesCarbonDioxideConcentrationData>
+
+</CarbonDioxideConcentration>

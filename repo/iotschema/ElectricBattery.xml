@@ -1,0 +1,44 @@
+<!--TAGS_MODEL: ["Battery", "Capability", "Energy", "Building", "ElectricBattery", "Electric", "Home"]-->
+<!--DESCRIPTION_MODEL: "A capability for an electric battery(an electric power storage system). Power at Point of Common Coupling (PCC) is the power in the point on the electrical network, nearest to the generator, at which other customers are, or could be, connected."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<ElectricBattery type="/iotschema/Capability,/iotschema/Class,/iotschema/ElectricBattery" reader="*" writer="*">
+
+	<lowBattery type="/iotschema/lowBattery" reader="*" writer="*"></lowBattery>
+
+	<maxChargeCurrent type="/iotschema/maxChargeCurrent" reader="*" writer="*"></maxChargeCurrent>
+
+	<overPressureAlarm type="/iotschema/overPressureAlarm" reader="*" writer="*"></overPressureAlarm>
+
+	<underTemperatureAlarm type="/iotschema/underTemperatureAlarm" reader="*" writer="*"></underTemperatureAlarm>
+
+	<batteryLowVoltageAlarm type="/iotschema/batteryLowVoltageAlarm" reader="*" writer="*"></batteryLowVoltageAlarm>
+
+	<capacity type="/iotschema/capacity" reader="*" writer="*"></capacity>
+
+	<overVoltageAlarm type="/iotschema/overVoltageAlarm" reader="*" writer="*"></overVoltageAlarm>
+
+	<overTemperatureAlarm type="/iotschema/overTemperatureAlarm" reader="*" writer="*"></overTemperatureAlarm>
+
+	<discharging type="/iotschema/discharging" reader="*" writer="*"></discharging>
+
+	<maxDischargeCurrent type="/iotschema/maxDischargeCurrent" reader="*" writer="*"></maxDischargeCurrent>
+
+	<charging type="/iotschema/charging" reader="*" writer="*"></charging>
+
+	<stateOfCharge type="/iotschema/stateOfCharge" reader="*" writer="*"></stateOfCharge>
+
+	<maxChargePower type="/iotschema/maxChargePower" reader="*" writer="*"></maxChargePower>
+
+	<maxDischargePower type="/iotschema/maxDischargePower" reader="*" writer="*"></maxDischargePower>
+
+	<chargeBattery type="/iotschema/chargeBattery" reader="*" writer="*"></chargeBattery>
+
+	<dischargeBattery type="/iotschema/dischargeBattery" reader="*" writer="*"></dischargeBattery>
+
+	<overElectricalCurrentAlarm type="/iotschema/overElectricalCurrentAlarm" reader="*" writer="*"></overElectricalCurrentAlarm>
+
+	<underVoltageAlarm type="/iotschema/underVoltageAlarm" reader="*" writer="*"></underVoltageAlarm>
+
+	<setPointBattery type="/iotschema/setPointBattery" reader="*" writer="*"></setPointBattery>
+
+</ElectricBattery>

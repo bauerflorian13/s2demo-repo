@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["Flow", "Rate", "Unit", "FlowRateUnit"]-->
+<!--DESCRIPTION_MODEL: "An enumeration of flow rate units."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<FlowRateUnit type="/iotschema/Enumeration,/iotschema/Class" reader="*" writer="*">
+
+</FlowRateUnit>

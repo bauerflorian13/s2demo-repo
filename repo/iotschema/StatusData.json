@@ -1,0 +1,1 @@
+{"types":["/iotschema/PropertyValue","/iotschema/Class"],"children":[{"types":["/iotschema/Boolean"],"reader":"*","name":"Boolean","description":"","restrictions":[],"writer":"*","metaInformation":{},"tags":[]}],"reader":"*","name":"StatusData","description":"'StatusData'","restrictions":[],"writer":"*","metaInformation":{"TYPE":"Class"},"tags":["Status","Data","StatusData"]}

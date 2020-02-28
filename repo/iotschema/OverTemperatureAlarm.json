@@ -1,0 +1,1 @@
+{"types":["/iotschema/Event","/iotschema/Class"],"children":[],"reader":"*","name":"OverTemperatureAlarm","description":"'Too high temperature.'","restrictions":[],"writer":"*","metaInformation":{"TYPE":"Class"},"tags":["Pattern","Interaction","Over","OverTemperatureAlarm","Event","Alarm","Temperature","InteractionPattern"]}

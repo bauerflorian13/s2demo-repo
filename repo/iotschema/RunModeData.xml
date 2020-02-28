@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["RunModeData", "Data", "Mode", "Run"]-->
+<!--DESCRIPTION_MODEL: "Run modes"-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<RunModeData type="/iotschema/RunModeData,/iotschema/PropertyValue,/iotschema/Class" reader="*" writer="*">
+
+	<runModeType type="/iotschema/runModeType" reader="*" writer="*"></runModeType>
+
+</RunModeData>

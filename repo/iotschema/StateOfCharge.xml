@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Charge", "Read-only", "Pattern", "Interaction", "State", "StateOfCharge", "Of", "Observable", "Property", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "The rounded percentage of the current charging level of a battery in the range of [0, 100]."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<StateOfCharge type="/iotschema/Class,/iotschema/Property" reader="*" writer=" ">
+
+	<providesStateOfChargeData type="/iotschema/providesStateOfChargeData" reader="*" writer="*"></providesStateOfChargeData>
+
+</StateOfCharge>

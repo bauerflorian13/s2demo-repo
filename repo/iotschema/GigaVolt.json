@@ -1,0 +1,1 @@
+{"types":["/iotschema/VoltageUnit"],"children":[],"reader":"*","name":"GigaVolt","description":"'The unit of voltage, expressed in a unit prefix meaning 'one billion'.'","restrictions":[],"writer":"*","metaInformation":{"REFERENCE":"\"0112/2///62720#UAC772#001\"","TYPE":"VoltageUnit"},"tags":["Gigavolt","VoltageUnit","Unit","Voltage"]}

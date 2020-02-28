@@ -1,0 +1,1 @@
+{"name":"AveragePhaseToPhaseVoltage","meta-info":{"TYPE":"Class"},"description":"\"The average voltage between two phases (line-to-line voltages in a polyphase system).\"","tags":["Read-only","Pattern","Interaction","To","AveragePhaseToPhaseVoltage","Average","Phase","Observable","Property","Voltage","InteractionPattern"]}

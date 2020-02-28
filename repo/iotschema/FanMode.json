@@ -1,0 +1,1 @@
+{"types":["/iotschema/RunModeType"],"children":[],"reader":"*","name":"FanMode","description":"'Fan Mode'","restrictions":[],"writer":"*","metaInformation":{"TYPE":"RunModeType"},"tags":["Fan","FanMode","RunModeType","Mode","Type","Run"]}

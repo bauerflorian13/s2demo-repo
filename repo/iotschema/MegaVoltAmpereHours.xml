@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["Megavolt-ampere-hours", "Energy", "ApparentEnergyUnit", "Unit", "Apparent"]-->
+<!--DESCRIPTION_MODEL: "The unit of the apparent enregy, expressed in mega (one million) as a decimal unit prefix."-->
+<!--METAINFORMATION_MODEL: {TYPE=ApparentEnergyUnit}-->
+<MegaVoltAmpereHours type="/iotschema/ApparentEnergyUnit" reader="*" writer="*">
+
+</MegaVoltAmpereHours>

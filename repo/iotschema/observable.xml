@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Pattern", "Interaction", "Observable", "Property", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "Property to specify observability of a property."-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<observable type="/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/Boolean" reader="*" writer="*"></expectedReturnType>
+
+</observable>

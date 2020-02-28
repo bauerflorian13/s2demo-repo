@@ -1,0 +1,14 @@
+<!--TAGS_MODEL: ["Power", "Data", "ActivePowerData", "Active"]-->
+<!--DESCRIPTION_MODEL: "Data for the active power"-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<ActivePowerData type="/iotschema/PropertyValue,/iotschema/Class,/iotschema/ActivePowerData" reader="*" writer="*">
+
+	<minValue type="/iotschema/minValue" reader="*" writer="*"></minValue>
+
+	<maxValue type="/iotschema/maxValue" reader="*" writer="*"></maxValue>
+
+	<numberDataType type="/iotschema/numberDataType" reader="*" writer="*"></numberDataType>
+
+	<activePowerUnitCode type="/iotschema/activePowerUnitCode" reader="*" writer="*"></activePowerUnitCode>
+
+</ActivePowerData>

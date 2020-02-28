@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["Pattern", "Interaction", "Start", "Action", "Recording", "StartRecording", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "Starts a recording activity (e.g., audio-, video-recording)."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<StartRecording type="/iotschema/Action,/iotschema/Class" reader="*" writer="*">
+
+</StartRecording>

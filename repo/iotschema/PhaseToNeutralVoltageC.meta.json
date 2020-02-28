@@ -1,0 +1,1 @@
+{"name":"PhaseToNeutralVoltageC","meta-info":{"TYPE":"Class"},"description":"\"The voltage between the phase (line) C and neutral (there exist phases A, B, and C).\"","tags":["Read-only","Pattern","Interaction","To","Phase","Observable","Property","Neutral","PhaseToNeutralVoltageC","Voltage","InteractionPattern"]}

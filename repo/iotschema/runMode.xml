@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["RunMode", "Pattern", "Provides", "Interaction", "Mode", "ProvidesInteractionPattern", "Property", "Run", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "A property that relates a capability with its RunMode interaction pattern."-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<runMode type="/iotschema/providesInteractionPattern,/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/RunMode" reader="*" writer="*"></expectedReturnType>
+
+</runMode>

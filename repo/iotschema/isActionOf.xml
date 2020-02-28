@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Pattern", "Interaction", "Is", "IsActionOf", "Of", "Action", "Property", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "Relation between an Action and the entity it belongs to."-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<isActionOf type="/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/FeatureOfInterest" reader="*" writer="*"></expectedReturnType>
+
+</isActionOf>

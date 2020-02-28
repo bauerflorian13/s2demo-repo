@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Read-only", "Pattern", "Interaction", "Concentration", "Observable", "Argon", "Property", "ArgonConcentration", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "Concentration of argon in ambient air."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<ArgonConcentration type="/iotschema/Class,/iotschema/ArgonConcentration,/iotschema/Property" reader="*" writer=" ">
+
+	<providesArgonConcentrationData type="/iotschema/providesArgonConcentrationData" reader="*" writer="*"></providesArgonConcentrationData>
+
+</ArgonConcentration>

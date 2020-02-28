@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["Lux"]-->
+<!--DESCRIPTION_MODEL: "Illuminance Unit"-->
+<!--METAINFORMATION_MODEL: {SOURCE="http://qudt.org/vocab/unit#Lux", REFERENCE="0112/2///62720#UAA723#001", TYPE=IlluminanceUnit}-->
+<Lux type="/iotschema/IlluminanceUnit" reader="*" writer="*">
+
+</Lux>

@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["Pattern", "Interaction", "Toggle", "Action", "ToggleAction", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "Toggles a boolean state on and off."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<ToggleAction type="/iotschema/Action,/iotschema/Class" reader="*" writer="*">
+
+</ToggleAction>

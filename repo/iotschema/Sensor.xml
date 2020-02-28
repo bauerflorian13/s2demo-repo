@@ -1,0 +1,10 @@
+<!--TAGS_MODEL: ["Device", "Sensor"]-->
+<!--DESCRIPTION_MODEL: "Sensor - Device, agent (including humans), or software (simulation). Sensors respond to a Stimulus, e.g., a change in the environment, data composed from the Results of prior Observations, and generate a Result."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<Sensor type="/iotschema/Device,/iotschema/Class" reader="*" writer="*">
+
+	<observes type="/iotschema/observes" reader="*" writer="*"></observes>
+
+	<madeObservation type="/iotschema/madeObservation" reader="*" writer="*"></madeObservation>
+
+</Sensor>

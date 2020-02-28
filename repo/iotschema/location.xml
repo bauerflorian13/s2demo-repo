@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Pattern", "Interaction", "Property", "Location", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "Location of an Equipment. "-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<location type="/iotschema/location,/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/Site" reader="*" writer="*"></expectedReturnType>
+
+</location>

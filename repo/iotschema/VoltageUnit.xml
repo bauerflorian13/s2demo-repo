@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["VoltageUnit", "Unit", "Voltage"]-->
+<!--DESCRIPTION_MODEL: "An enumeration of voltage units."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<VoltageUnit type="/iotschema/Enumeration,/iotschema/Class" reader="*" writer="*">
+
+</VoltageUnit>

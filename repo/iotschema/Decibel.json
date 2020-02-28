@@ -1,0 +1,1 @@
+{"types":["/iotschema/SoundPressureUnit"],"children":[],"reader":"*","name":"Decibel","description":"'Sound Pressure Unit'","restrictions":[],"writer":"*","metaInformation":{"SOURCE":"\"http://qudt.org/vocab/unit#Decibel\"","REFERENCE":"\"0112/2///62720#UAA409#001\"","TYPE":"SoundPressureUnit"},"tags":["SoundPressureUnit","Unit","Sound","Pressure"]}

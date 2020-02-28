@@ -1,0 +1,1 @@
+{"name":"PhaseToPhaseVoltageBC","meta-info":{"TYPE":"Class"},"description":"\"The voltage between phases B and C (line-to-line voltages in a polyphase system).\"","tags":["Read-only","Pattern","Interaction","To","PhaseToPhaseVoltageBC","Phase","Observable","Property","Voltage","InteractionPattern"]}

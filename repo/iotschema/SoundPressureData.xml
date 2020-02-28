@@ -1,0 +1,14 @@
+<!--TAGS_MODEL: ["SoundPressureData", "Data", "Sound", "Pressure"]-->
+<!--DESCRIPTION_MODEL: "Sound Pressure data"-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<SoundPressureData type="/iotschema/PropertyValue,/iotschema/Class" reader="*" writer="*">
+
+	<minValue type="/iotschema/minValue" reader="*" writer="*"></minValue>
+
+	<maxValue type="/iotschema/maxValue" reader="*" writer="*"></maxValue>
+
+	<numberDataType type="/iotschema/numberDataType" reader="*" writer="*"></numberDataType>
+
+	<soundPressureUnitCode type="/iotschema/soundPressureUnitCode" reader="*" writer="*"></soundPressureUnitCode>
+
+</SoundPressureData>

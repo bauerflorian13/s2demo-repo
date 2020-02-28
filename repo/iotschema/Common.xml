@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["Common", "Domain"]-->
+<!--DESCRIPTION_MODEL: "Horizontal Domain (Cross Domain)"-->
+<!--METAINFORMATION_MODEL: {TYPE=Domain}-->
+<Common type="/iotschema/Domain" reader="*" writer="*">
+
+</Common>

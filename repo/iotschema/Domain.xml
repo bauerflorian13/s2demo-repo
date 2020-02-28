@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["Domain"]-->
+<!--DESCRIPTION_MODEL: "Specifies a domain e.g., Building domain, Mobility domain, or domain agnostic (Common domain)."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<Domain type="/iotschema/Enumeration,/iotschema/Class" reader="*" writer="*">
+
+</Domain>

@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["Fahrenheit", "TemperatureUnit", "Unit", "Temperature"]-->
+<!--DESCRIPTION_MODEL: "unit of temperature according to the temperature of the freezing and boiling point of water (32 °F and 212 °F)"-->
+<!--METAINFORMATION_MODEL: {REFERENCE="0112/2///62720#UAA039#001", SOURCE="http://data.nasa.gov/qudt/owl/unit#DegreeFahrenheit", TYPE=TemperatureUnit}-->
+<Fahrenheit type="/iotschema/TemperatureUnit" reader="*" writer="*">
+
+</Fahrenheit>

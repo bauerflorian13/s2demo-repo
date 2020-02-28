@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["Nanoampere", "Current", "Unit", "Electric", "ElectricCurrentUnit"]-->
+<!--DESCRIPTION_MODEL: "The unit of electric current, expressed in a unit prefix meaning 'one billionth'."-->
+<!--METAINFORMATION_MODEL: {REFERENCE="0112/2///62720#UAA901#001", TYPE=ElectricCurrentUnit}-->
+<NanoAmpere type="/iotschema/ElectricCurrentUnit" reader="*" writer="*">
+
+</NanoAmpere>

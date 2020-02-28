@@ -1,0 +1,1 @@
+{"types":["/iotschema/Capability","/iotschema/Class"],"children":[],"reader":"*","name":"LevelSwitch","description":"'A capability of a level switch'","restrictions":[],"writer":"*","metaInformation":{"TYPE":"Class"},"tags":["Capability","Industry","LevelSwitch","Switch","Level"]}

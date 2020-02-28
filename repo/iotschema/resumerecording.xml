@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Pattern", "Provides", "Resumerecording", "Interaction", "ProvidesInteractionPattern", "Property", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "An action that relates a capability with its ResumeRecording interaction pattern."-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<resumerecording type="/iotschema/providesInteractionPattern,/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/ResumeRecording" reader="*" writer="*"></expectedReturnType>
+
+</resumerecording>

@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["SoundPressureLEvel", "Evel", "Read-only", "Pattern", "Interaction", "Observable", "Property", "Sound", "Pressure", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "SPL interaction property"-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<SoundPressureLevel type="/iotschema/Class,/iotschema/Property" reader="*" writer=" ">
+
+	<providesSoundPressureData type="/iotschema/providesSoundPressureData" reader="*" writer="*"></providesSoundPressureData>
+
+</SoundPressureLevel>

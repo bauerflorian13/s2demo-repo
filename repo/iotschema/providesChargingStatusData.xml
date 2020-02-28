@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Provides", "Pattern", "Status", "ProvidesChargingStatusData", "Interaction", "Data", "Charging", "Property", "ProvidesOutputData", "Output", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "A property that relates an Interaction Pattern with its output ChargingStatusData."-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<providesChargingStatusData type="/iotschema/providesOutputData,/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/ChargingStatusData" reader="*" writer="*"></expectedReturnType>
+
+</providesChargingStatusData>

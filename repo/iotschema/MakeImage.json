@@ -1,0 +1,1 @@
+{"types":["/iotschema/Action","/iotschema/Class"],"children":[],"reader":"*","name":"MakeImage","description":"'Takes a single (snapshot) image.'","restrictions":[],"writer":"*","metaInformation":{"TYPE":"Class"},"tags":["MakeImage","Pattern","Interaction","Image","Action","Make","InteractionPattern"]}

@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["Minute", "Time", "Unit", "TimeUnit"]-->
+<!--DESCRIPTION_MODEL: "Minute Time Unit"-->
+<!--METAINFORMATION_MODEL: {REFERENCE="0112/2///62720#UAA842#001", SOURCE="http://data.nasa.gov/qudt/owl/unit#MinuteTime", TYPE=TimeUnit}-->
+<Minute type="/iotschema/TimeUnit" reader="*" writer="*">
+
+</Minute>

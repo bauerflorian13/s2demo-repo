@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["LevelData", "Data", "Level"]-->
+<!--DESCRIPTION_MODEL: "Level data"-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<LevelData type="/iotschema/PropertyValue,/iotschema/Class" reader="*" writer="*">
+
+	<Number type="/iotschema/Number" reader="*" writer="*"></Number>
+
+</LevelData>

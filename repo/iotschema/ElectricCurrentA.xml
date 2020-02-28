@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["ElectricCurrentA", "Read-only", "Pattern", "Interaction", "Current", "Observable", "Property", "Electric", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "The current which flows through the phase (line) A (there exist phases A, B, and C)."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<ElectricCurrentA type="/iotschema/Class,/iotschema/Property" reader="*" writer=" ">
+
+	<providesElectricCurrentData type="/iotschema/providesElectricCurrentData" reader="*" writer="*"></providesElectricCurrentData>
+
+</ElectricCurrentA>

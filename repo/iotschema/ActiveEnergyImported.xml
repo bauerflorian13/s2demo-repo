@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["ActiveEnergyImported", "Writeable", "Pattern", "Interaction", "Energy", "Observable", "Imported", "Active", "Property", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "The electric energy derived from active power over a period of time, and imported (received)."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<ActiveEnergyImported type="/iotschema/Class,/iotschema/Property" reader="*" writer="*">
+
+	<providesActiveEnergyData type="/iotschema/providesActiveEnergyData" reader="*" writer="*"></providesActiveEnergyData>
+
+</ActiveEnergyImported>

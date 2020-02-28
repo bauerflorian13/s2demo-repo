@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["Charge", "Read-only", "Pattern", "Max", "Interaction", "Power", "Observable", "Property", "MaxChargePower", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "It is the charging power limit."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<MaxChargePower type="/iotschema/Class,/iotschema/Property" reader="*" writer=" ">
+
+</MaxChargePower>

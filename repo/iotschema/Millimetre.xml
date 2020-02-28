@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["LevelUnit", "Level", "Unit", "Millimetre"]-->
+<!--DESCRIPTION_MODEL: "Unit of measurement in millimetre"-->
+<!--METAINFORMATION_MODEL: {REFERENCE="0112/2///62720#UAA862#001", TYPE=LevelUnit}-->
+<Millimetre type="/iotschema/LevelUnit" reader="*" writer="*">
+
+</Millimetre>

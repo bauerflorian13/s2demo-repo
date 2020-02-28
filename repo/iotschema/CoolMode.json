@@ -1,0 +1,1 @@
+{"types":["/iotschema/RunModeType"],"children":[],"reader":"*","name":"CoolMode","description":"'Cool mode'","restrictions":[],"writer":"*","metaInformation":{"TYPE":"RunModeType"},"tags":["RunModeType","CoolMode","Mode","Type","Cool","Run"]}

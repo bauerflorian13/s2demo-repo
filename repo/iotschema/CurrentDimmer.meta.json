@@ -1,0 +1,1 @@
+{"name":"CurrentDimmer","meta-info":{"TYPE":"Class"},"description":"\"Get quantized representation of the current sensed value for brightness (e.g., in the range 0-100)\"","tags":["Read-only","Dimmer","Pattern","Interaction","Current","Observable","Property","CurrentDimmer","InteractionPattern"]}

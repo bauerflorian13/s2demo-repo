@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["PressureUnit", "Unit", "Pressure", "Bar"]-->
+<!--DESCRIPTION_MODEL: "The bar (symbol: bar) is a metric unit of pressure, but is not approved as part of the International System of Units (SI)."-->
+<!--METAINFORMATION_MODEL: {SOURCE="http://data.nasa.gov/qudt/owl/unit#Bar", REFERENCE="0112/2///62720#UAA323#001", TYPE=PressureUnit}-->
+<Bar type="/iotschema/PressureUnit" reader="*" writer="*">
+
+</Bar>

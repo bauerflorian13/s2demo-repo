@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["Pattern", "Interaction", "OverVoltageAlarm", "Over", "Event", "Voltage", "Alarm", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "Too high voltage (e.g., a battery is charged or discharged with)."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<OverVoltageAlarm type="/iotschema/Event,/iotschema/Class" reader="*" writer="*">
+
+</OverVoltageAlarm>

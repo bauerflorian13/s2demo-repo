@@ -1,0 +1,10 @@
+<!--TAGS_MODEL: ["Oxygen", "OxygenConcentrationData", "Data", "Concentration"]-->
+<!--DESCRIPTION_MODEL: "Oxygen concentration data."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<OxygenConcentrationData type="/iotschema/PropertyValue,/iotschema/Class" reader="*" writer="*">
+
+	<oxygenConcentrationUnitCode type="/iotschema/oxygenConcentrationUnitCode" reader="*" writer="*"></oxygenConcentrationUnitCode>
+
+	<numberDataType type="/iotschema/numberDataType" reader="*" writer="*"></numberDataType>
+
+</OxygenConcentrationData>

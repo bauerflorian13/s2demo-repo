@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Pattern", "AcceptsInputData", "Input", "Interaction", "Accepts", "Data", "Wind", "Property", "AcceptsWindData", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "A property that relates an Interaction Pattern with its input indData."-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<acceptsWindData type="/iotschema/acceptsInputData,/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/WindData" reader="*" writer="*"></expectedReturnType>
+
+</acceptsWindData>

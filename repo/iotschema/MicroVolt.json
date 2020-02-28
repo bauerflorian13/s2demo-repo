@@ -1,0 +1,1 @@
+{"types":["/iotschema/VoltageUnit"],"children":[],"reader":"*","name":"MicroVolt","description":"'The unit of voltage, expressed in a unit prefix meaning 'one millionth'.'","restrictions":[],"writer":"*","metaInformation":{"REFERENCE":"\"0112/2///62720#UAA078#001\"","TYPE":"VoltageUnit"},"tags":["Microvolt","VoltageUnit","Unit","Voltage"]}

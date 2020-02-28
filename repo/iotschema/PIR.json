@@ -1,0 +1,1 @@
+{"types":["/iotschema/MotionSensorType"],"children":[],"reader":"*","name":"PIR","description":"'Passive infrared sensor'","restrictions":[],"writer":"*","metaInformation":{"TYPE":"MotionSensorType"},"tags":["MotionSensorType","Type","Sensor","PIR","Motion"]}

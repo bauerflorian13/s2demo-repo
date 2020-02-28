@@ -1,0 +1,1 @@
+{"types":["/iotschema/LineFrequencyUnit"],"children":[],"reader":"*","name":"Picohertz","description":"'The unit of line frequency, expressed in a unit prefix meaning 'one trillionth'.'","restrictions":[],"writer":"*","metaInformation":{"TYPE":"LineFrequencyUnit"},"tags":["LineFrequencyUnit","Frequency","Picohertz","Line","Unit"]}

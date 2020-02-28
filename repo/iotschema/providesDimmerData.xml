@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["ProvidesDimmerData", "Provides", "Dimmer", "Pattern", "Interaction", "Data", "Property", "ProvidesOutputData", "Output", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "A property that relates an Interaction Pattern with its output DimmerData."-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<providesDimmerData type="/iotschema/providesOutputData,/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/DimmerData" reader="*" writer="*"></expectedReturnType>
+
+</providesDimmerData>

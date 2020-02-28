@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["Centimetre", "LevelUnit", "Level", "Unit"]-->
+<!--DESCRIPTION_MODEL: "Unit of measurement in centimetre"-->
+<!--METAINFORMATION_MODEL: {SOURCE="http://qudt.org/vocab/unit#Centimeter", REFERENCE="0112/2///62720#UAA375#001", TYPE=LevelUnit}-->
+<Centimetre type="/iotschema/LevelUnit" reader="*" writer="*">
+
+</Centimetre>

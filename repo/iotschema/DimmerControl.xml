@@ -1,0 +1,12 @@
+<!--TAGS_MODEL: ["Dimmer", "Control", "Capability", "Building", "DimmerControl", "Home"]-->
+<!--DESCRIPTION_MODEL: "A light dimmer control capability."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<DimmerControl type="/iotschema/Capability,/iotschema/Class" reader="*" writer="*">
+
+	<setDimmer type="/iotschema/setDimmer" reader="*" writer="*"></setDimmer>
+
+	<currentDimmer type="/iotschema/currentDimmer" reader="*" writer="*"></currentDimmer>
+
+	<rampTime type="/iotschema/rampTime" reader="*" writer="*"></rampTime>
+
+</DimmerControl>

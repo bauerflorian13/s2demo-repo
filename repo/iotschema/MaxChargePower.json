@@ -1,0 +1,1 @@
+{"types":["/iotschema/Property","/iotschema/Class"],"children":[],"reader":"*","name":"MaxChargePower","description":"'It is the charging power limit.'","restrictions":[],"writer":" ","metaInformation":{"TYPE":"Class"},"tags":["Charge","Read-only","Pattern","Max","Interaction","Power","Observable","Property","MaxChargePower","InteractionPattern"]}

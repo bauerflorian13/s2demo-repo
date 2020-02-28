@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["Gallons", "Per", "Flow", "Minute", "GallonsPerMinute", "Rate", "Unit", "FlowRateUnit"]-->
+<!--DESCRIPTION_MODEL: "unit of measurement of liquid flow rate"-->
+<!--METAINFORMATION_MODEL: {SOURCE="http://data.nasa.gov/qudt/owl/unit#GallonUSPerMinute", TYPE=FlowRateUnit}-->
+<GallonsPerMinute type="/iotschema/FlowRateUnit" reader="*" writer="*">
+
+</GallonsPerMinute>

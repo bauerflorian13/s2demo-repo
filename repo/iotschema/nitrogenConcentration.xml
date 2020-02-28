@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["NitrogenConcentration", "Pattern", "Provides", "Interaction", "Concentration", "Nitrogen", "ProvidesInteractionPattern", "Property", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "A property that relates a capability with its NitrogenConcentration interaction pattern."-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<nitrogenConcentration type="/iotschema/providesInteractionPattern,/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/NitrogenConcentration" reader="*" writer="*"></expectedReturnType>
+
+</nitrogenConcentration>

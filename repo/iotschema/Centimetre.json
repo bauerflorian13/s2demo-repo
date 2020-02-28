@@ -1,0 +1,1 @@
+{"types":["/iotschema/LevelUnit"],"children":[],"reader":"*","name":"Centimetre","description":"'Unit of measurement in centimetre'","restrictions":[],"writer":"*","metaInformation":{"SOURCE":"\"http://qudt.org/vocab/unit#Centimeter\"","REFERENCE":"\"0112/2///62720#UAA375#001\"","TYPE":"LevelUnit"},"tags":["Centimetre","LevelUnit","Level","Unit"]}

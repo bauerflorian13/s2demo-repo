@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["RunModeType", "Mode", "Type", "Run"]-->
+<!--DESCRIPTION_MODEL: "An enumeration of run modes of an air conditioner."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<RunModeType type="/iotschema/Enumeration,/iotschema/Class" reader="*" writer="*">
+
+</RunModeType>

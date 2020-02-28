@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["Pattern", "Interaction", "PauseRecording", "Action", "Pause", "Recording", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "Pauses a recording activity (e.g., audio-, video-recording)."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<PauseRecording type="/iotschema/Action,/iotschema/Class" reader="*" writer="*">
+
+</PauseRecording>

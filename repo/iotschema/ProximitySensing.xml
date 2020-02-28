@@ -1,0 +1,12 @@
+<!--TAGS_MODEL: ["Sensing", "Capability", "Industry", "ProximitySensing", "Proximity"]-->
+<!--DESCRIPTION_MODEL: "A proximity sensing capability"-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<ProximitySensing type="/iotschema/Capability,/iotschema/Class" reader="*" writer="*">
+
+	<expectedPressure type="/iotschema/expectedPressure" reader="*" writer="*"></expectedPressure>
+
+	<operationStatus type="/iotschema/operationStatus" reader="*" writer="*"></operationStatus>
+
+	<expectedAmbientTemperature type="/iotschema/expectedAmbientTemperature" reader="*" writer="*"></expectedAmbientTemperature>
+
+</ProximitySensing>

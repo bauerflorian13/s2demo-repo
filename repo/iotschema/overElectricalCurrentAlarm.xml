@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Pattern", "Provides", "Interaction", "Electrical", "Current", "ProvidesInteractionPattern", "OverElectricalCurrentAlarm", "Over", "Property", "Alarm", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: ""-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<overElectricalCurrentAlarm type="/iotschema/providesInteractionPattern,/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/OverElectricalCurrentAlarm" reader="*" writer="*"></expectedReturnType>
+
+</overElectricalCurrentAlarm>

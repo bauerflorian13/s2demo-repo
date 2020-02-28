@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["Air", "GasInAirConcentrationUnit", "Concentration", "Percent", "Unit", "Gas", "In"]-->
+<!--DESCRIPTION_MODEL: "Unit of measurement for level or concentration."-->
+<!--METAINFORMATION_MODEL: {REFERENCE="0112/2///62720#UAA000#001", SOURCE="http://qudt.org/vocab/unit#Percent", TYPE=GasInAirConcentrationUnit}-->
+<Percent type="/iotschema/GasInAirConcentrationUnit" reader="*" writer="*">
+
+</Percent>

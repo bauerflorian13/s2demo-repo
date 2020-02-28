@@ -1,0 +1,1 @@
+{"types":["/iotschema/Event","/iotschema/Class"],"children":[],"reader":"*","name":"UnderTemperatureAlarm","description":"'Too low  temperature.'","restrictions":[],"writer":"*","metaInformation":{"TYPE":"Class"},"tags":["Under","Pattern","Interaction","Event","UnderTemperatureAlarm","Alarm","Temperature","InteractionPattern"]}

@@ -1,0 +1,1 @@
+{"types":["/iotschema/Action","/iotschema/Class"],"children":[],"reader":"*","name":"ToggleAction","description":"'Toggles a boolean state on and off.'","restrictions":[],"writer":"*","metaInformation":{"TYPE":"Class"},"tags":["Pattern","Interaction","Toggle","Action","ToggleAction","InteractionPattern"]}

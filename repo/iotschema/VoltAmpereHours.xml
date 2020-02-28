@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["Volt-ampere-hours", "Energy", "ApparentEnergyUnit", "Unit", "Apparent"]-->
+<!--DESCRIPTION_MODEL: "The unit of the apparent energy."-->
+<!--METAINFORMATION_MODEL: {TYPE=ApparentEnergyUnit}-->
+<VoltAmpereHours type="/iotschema/ApparentEnergyUnit" reader="*" writer="*">
+
+</VoltAmpereHours>

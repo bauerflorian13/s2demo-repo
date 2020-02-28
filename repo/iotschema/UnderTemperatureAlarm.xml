@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["Under", "Pattern", "Interaction", "Event", "UnderTemperatureAlarm", "Alarm", "Temperature", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "Too low  temperature."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<UnderTemperatureAlarm type="/iotschema/Event,/iotschema/Class" reader="*" writer="*">
+
+</UnderTemperatureAlarm>

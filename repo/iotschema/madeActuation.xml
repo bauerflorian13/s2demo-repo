@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["MadeActuation", "Pattern", "Interaction", "Made", "Actuation", "Property", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: " Relation linking a PropertyValue to the Actuator that made that Actuation. "-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<madeActuation type="/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/PropertyValue" reader="*" writer="*"></expectedReturnType>
+
+</madeActuation>

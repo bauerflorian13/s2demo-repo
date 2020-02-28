@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["LineFrequencyUnit", "Frequency", "Picohertz", "Line", "Unit"]-->
+<!--DESCRIPTION_MODEL: "The unit of line frequency, expressed in a unit prefix meaning 'one trillionth'."-->
+<!--METAINFORMATION_MODEL: {TYPE=LineFrequencyUnit}-->
+<Picohertz type="/iotschema/LineFrequencyUnit" reader="*" writer="*">
+
+</Picohertz>

@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["Reactive", "Power", "ReactivePowerUnit", "Unit", "Gigavolt-ampere-reactive"]-->
+<!--DESCRIPTION_MODEL: "The unit of reactive power, expressed in giga (one billion) as a decimal unit prefix."-->
+<!--METAINFORMATION_MODEL: {TYPE=ReactivePowerUnit}-->
+<GigaVoltAmpereReactive type="/iotschema/ReactivePowerUnit" reader="*" writer="*">
+
+</GigaVoltAmpereReactive>

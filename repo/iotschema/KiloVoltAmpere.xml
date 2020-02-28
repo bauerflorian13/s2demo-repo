@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["ApparentPowerUnit", "Power", "Kilovolt-ampere", "Unit", "Apparent"]-->
+<!--DESCRIPTION_MODEL: "The unit of the apparent power, expressed in kilo (one thousand) as a decimal unit prefix."-->
+<!--METAINFORMATION_MODEL: {REFERENCE="0112/2///62720#UAA581#001", TYPE=ApparentPowerUnit}-->
+<KiloVoltAmpere type="/iotschema/ApparentPowerUnit" reader="*" writer="*">
+
+</KiloVoltAmpere>

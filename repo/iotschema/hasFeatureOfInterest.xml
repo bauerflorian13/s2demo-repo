@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Feature", "Pattern", "Interaction", "HasFeatureOfInterest", "Of", "Property", "Has", "Interest", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: " A relation between a PropertyValue and the entity whose quality was observed, or whose property was modified."-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<hasFeatureOfInterest type="/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/FeatureOfInterest" reader="*" writer="*"></expectedReturnType>
+
+</hasFeatureOfInterest>

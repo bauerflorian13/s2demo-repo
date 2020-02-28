@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Pattern", "Interaction", "Densitydata", "Property", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "A property that relates an Interaction pattern with its data ."-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<densitydata type="/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/DensityUnit" reader="*" writer="*"></expectedReturnType>
+
+</densitydata>

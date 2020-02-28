@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Pattern", "Provides", "Interaction", "To", "AveragePhaseToPhaseVoltage", "Average", "Phase", "ProvidesInteractionPattern", "Property", "Voltage", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "A property that relates a capability with its AveragePhaseToPhaseVoltage interaction pattern."-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<averagePhaseToPhaseVoltage type="/iotschema/providesInteractionPattern,/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/AveragePhaseToPhaseVoltage" reader="*" writer="*"></expectedReturnType>
+
+</averagePhaseToPhaseVoltage>

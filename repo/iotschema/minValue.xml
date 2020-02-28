@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Min", "Pattern", "Interaction", "MinValue", "Property", "Value", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "The lower value of some characteristic or property."-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<minValue type="/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/Number" reader="*" writer="*"></expectedReturnType>
+
+</minValue>

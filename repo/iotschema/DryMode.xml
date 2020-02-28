@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["Dry", "RunModeType", "Mode", "Type", "DryMode", "Run"]-->
+<!--DESCRIPTION_MODEL: "Dry Mode"-->
+<!--METAINFORMATION_MODEL: {TYPE=RunModeType}-->
+<DryMode type="/iotschema/RunModeType" reader="*" writer="*">
+
+</DryMode>

@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["Charge", "ElectricChargeData", "Data", "Electric"]-->
+<!--DESCRIPTION_MODEL: "Electric charge data."-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<ElectricChargeData type="/iotschema/ElectricChargeData,/iotschema/PropertyValue,/iotschema/Class" reader="*" writer="*">
+
+	<electricChargeUnitCode type="/iotschema/electricChargeUnitCode" reader="*" writer="*"></electricChargeUnitCode>
+
+</ElectricChargeData>

@@ -1,0 +1,6 @@
+<!--TAGS_MODEL: ["ReactiveEnergyUnit", "Reactive", "Energy", "Megavolt-ampere-reactive-hour", "Unit"]-->
+<!--DESCRIPTION_MODEL: "The unit of reactive enregy, expressed in mega (one million) as a decimal unit prefix."-->
+<!--METAINFORMATION_MODEL: {REFERENCE="0112/2///62720#UAB198#001", TYPE=ReactiveEnergyUnit}-->
+<MegaVoltAmpereReactiveHour type="/iotschema/ReactiveEnergyUnit" reader="*" writer="*">
+
+</MegaVoltAmpereReactiveHour>

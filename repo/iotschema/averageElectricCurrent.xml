@@ -1,0 +1,8 @@
+<!--TAGS_MODEL: ["AverageElectricCurrent", "Pattern", "Provides", "Interaction", "Current", "Average", "ProvidesInteractionPattern", "Property", "Electric", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "A property that relates a capability with its AverageElectricCurrent interaction pattern."-->
+<!--METAINFORMATION_MODEL: {TYPE=Property}-->
+<averageElectricCurrent type="/iotschema/providesInteractionPattern,/iotschema/Property" reader="*" writer="*">
+
+	<expectedReturnType type="/iotschema/AverageElectricCurrent" reader="*" writer="*"></expectedReturnType>
+
+</averageElectricCurrent>

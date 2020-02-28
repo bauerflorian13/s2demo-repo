@@ -1,0 +1,10 @@
+<!--TAGS_MODEL: ["Writeable", "TransitionTime", "Pattern", "Interaction", "Time", "Transition", "Observable", "Property", "InteractionPattern"]-->
+<!--DESCRIPTION_MODEL: "Transition time property"-->
+<!--METAINFORMATION_MODEL: {TYPE=Class}-->
+<TransitionTime type="/iotschema/Class,/iotschema/Property" reader="*" writer="*">
+
+	<acceptsTransitionTimeData type="/iotschema/acceptsTransitionTimeData" reader="*" writer="*"></acceptsTransitionTimeData>
+
+	<providesTransitionTimeData type="/iotschema/providesTransitionTimeData" reader="*" writer="*"></providesTransitionTimeData>
+
+</TransitionTime>
